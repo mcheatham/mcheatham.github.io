@@ -1,0 +1,6 @@
+{% for paper in site.data.papers %}
+{% assign keywords = paper.keywords|split:"," %}
+{% if keywords contains include.subject %}
+<li>{% include reference.html paper=paper %}</li>
+{% endif %}
+{% endfor %}

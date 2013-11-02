@@ -1,0 +1,2 @@
+{% assign paper = include.paper %}
+{{ paper.author|strip_newlines }}. <em>{{ paper.title|strip_newlines }}</em>, {{ paper.publication|strip_newlines }}{% if paper.location %}, {{ paper.location }}{% endif %}{% if paper.volume %}, vol {{ paper.volume }}{% endif %}{% if paper.issue %}, issue {{ paper.issue }}{% endif %}{% if paper.pages %}, pp. {{ paper.pages }}{% endif %}{% if paper.date %}, {{ paper.date }}{% endif %}.{% if paper.download %} (<a href="{{ site.baseurl }}/files/{{ paper.download }}">download</a>){% endif %}

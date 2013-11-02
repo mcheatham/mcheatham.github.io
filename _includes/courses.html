@@ -1,0 +1,9 @@
+{% assign degree = include.degree %}
+<dl class="courses">
+{% for course in degree.courses %}
+	{% if course.description %}
+	<dt><a id="{{ course.number|downcase|replace:' ','_' }}"></a>{{ course.number }} - <em>{{ course.title }}</em></dt>
+	<dd>{{ course.description }}</dd>
+	{% endif %}
+{% endfor %}
+</dl>

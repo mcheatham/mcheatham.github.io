@@ -1,0 +1,161 @@
+html { background: #e6e6dc; }
+html, body { padding: 0; }
+
+body {
+  margin: 0 60px;
+  padding: 0;
+  padding-bottom: 170px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+body > header {
+  height: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  padding: 0 60px;
+  background-image: url(../images/grass.jpg);
+  background-repeat: no-repeat;
+}
+
+#title {
+  text-align: center;
+  font-size: 2.2em;
+  margin: 0;
+  padding: 8px;
+  padding-top: 30px;
+  text-shadow: 0 0 5px #000000;
+  color: #ffffff;
+}
+h1 {
+  color: #81a594;
+  text-shadow: 0 0 3px rgba(50, 50, 50, 0.1);
+  border-bottom: solid 1px #e0e0e0;
+}
+h2 {
+  color: #00628b;
+  text-shadow: 0 0 3px rgba(50, 50, 50, 0.1);
+}
+
+a { color: #00628b; }
+a:visited { color: #a0a0a0; }
+
+.navbar {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0 0.67em 0;
+  text-align: center;
+}
+.navbar li {
+  display: inline-block;
+  margin: 0 1em;
+}
+.navbar li a {
+  font-size: 1em;
+  text-shadow: 0 0 5px #000000;
+  text-decoration: none;
+  color: #bcd0c7;
+}
+.navbar li a:hover {
+  text-decoration: underline;
+}
+.navbar a.active { color: white; }
+.navbar a.active:hover { 
+  text-decoration: none;
+  text-shadow: 0 0 5px #000000;
+}
+
+div[role=main] {
+  padding: 0.5em 1.5em;
+  background: #FFF;
+  border: 1px solid #b3b3b3;
+  border-radius: 4px;
+  margin: 0 auto;
+  max-width: 900px;
+  position: relative;
+  top: 130px;
+  z-index: 100;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1), inset 0 1px 0 #ffffff;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.75em;
+  clear: both;
+}
+
+li { margin-bottom: 0.5em; }
+li:last-child { margin-bottom: 0; }
+
+ul.flat {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul.citations li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+th, td { padding: 4px 0; }
+
+table#skills { margin: 1em 0; }
+table#skills ul { margin: 0; }
+table#skills th {
+  font-style: italic;
+  font-weight: normal;
+  text-align: left;
+}
+table#skills thead,
+table#skills tbody {
+  border-bottom: solid 1px #d0d0d0;
+}
+table#skills tbody:last-child {
+  border-bottom: none;
+}
+table#skills tbody th,
+table#skills tbody td {
+  padding-right: 1.5em;
+  vertical-align: top;
+}
+td.col-degree, td.col-employer { width: 22em; }
+td.col-school, td.col-title { width: 14em; }
+td.col-date { width: 11em; }
+
+.transcript header { margin-bottom: 1em; }
+.transcript .gpa { text-decoration: underline; }
+.transcript table {
+  width: 100%;
+  margin-bottom: 1em;
+}
+.transcript table th {
+  text-align: left;
+  padding-right: 1.5em;
+}
+.transcript table td {
+  padding-right: 1em;
+  vertical-align: top;
+}
+.transcript table td.col-number {
+  width: 4em;
+}
+.transcript table td.col-hours {
+  width: 3em;
+}
+.transcript table td.col-grade {
+  width: 3em;
+}
+.transcript table td.col-when {
+  width: 5em;
+}
+.courses dt {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+.courses dd {
+  margin-bottom: 1em;
+  margin-left: 1em;
+}

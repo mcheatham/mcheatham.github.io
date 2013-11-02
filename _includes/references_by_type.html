@@ -1,0 +1,5 @@
+{% for paper in site.data.papers %}
+{% if paper.type == include.type %}
+<li>{% include reference.html paper=paper %}</li>
+{% endif %}
+{% endfor %}

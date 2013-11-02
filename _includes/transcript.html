@@ -1,0 +1,43 @@
+{% assign degree = include.degree %}
+<div class="transcript">
+	<header>
+		<h2 class="degree">{{ degree.degree}}</h2>
+
+		{% if degree.intro %}
+		<p>{{ degree.intro }}</p>
+		{% endif %}
+
+		<div class="school">{{ degree.school }}</div>
+		<div>Awarded: <span class="awarded">{{ degree.date }}</span></div>
+		<div>Cumulative GPA: <span class="gpa">{{ degree.gpa }}</span></div>
+	</header>
+
+	<table id="courses">
+		<thead>
+			<tr>
+				<th>Number</th>
+				<th>Title</th>
+				<th>Hours</th>
+				<th>Grade</th>
+				<th>When</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for course in degree.courses %}
+			<tr>
+				<td class="col-number">
+					{% if course.description %}
+					<a href="{{ site.baseurl }}{{ degree.name|downcase }}_courses.html#{{ course.number|downcase|replace:' ','_' }}">
+					{% endif %}
+					{{ course.number }}
+					{% if course.description %}</a>{% endif %}
+				</td>
+				<td class="col-title">{{ course.title }}</td>
+				<td class="col-hours">{{ course.hours }}</td>
+				<td class="col-grade">{{ course.grade }}</td>
+				<td class="col-when">{{ course.when }}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>

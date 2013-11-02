@@ -1,0 +1,11 @@
+{% assign job = include.job %}
+<table id="work" style="width:100%">
+	<tbody>
+	<tr>
+		<td class="col-employer">{{ job.employer }}</td>
+		<td class="col-title">{{ job.title }}</td>
+		<td class="col-date">{{ job.start-date }}&mdash;{{ job.end-date }}</td>
+		<td><a href="{{ site.baseurl }}/work.html#{{ job.id }}">details</a></td>
+	</tr>
+	</tbody>
+</table>
