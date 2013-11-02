@@ -120,9 +120,9 @@ table#skills tbody td {
   padding-right: 1.5em;
   vertical-align: top;
 }
-td.col-degree, td.col-employer { width: 22em; }
-td.col-school, td.col-title { width: 14em; }
-td.col-date { width: 11em; }
+td.col-degree, td.col-employer { width: 40%; }
+td.col-school, td.col-title { width: 30%; }
+td.col-date { width: 20%; }
 
 .transcript header { margin-bottom: 1em; }
 .transcript .gpa { text-decoration: underline; }
