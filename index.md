@@ -12,3 +12,6 @@ dissertation is proceeding.
 I am also trying to develop the ability to cook actual edible food. I have
 some recipes on here that I enjoy and are fairly resistant to cooking
 ineptitude.
+
+<img src="{{ site.baseurl }}/images/6-cube_graph.svg"
+	class="img-responsive" style="width:50%;margin:2em auto;">

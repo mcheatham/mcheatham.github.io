@@ -1,25 +1,22 @@
 {% assign degree = include.degree %}
 <div class="transcript">
-	<header>
-		<h2 class="degree">{{ degree.degree}}</h2>
+	{% if degree.intro %}
+	<p>{{ degree.intro }}</p>
+	{% endif %}
 
-		{% if degree.intro %}
-		<p>{{ degree.intro }}</p>
-		{% endif %}
-
-		<div class="school">{{ degree.school }}</div>
-		<div>Awarded: <span class="awarded">{{ degree.date }}</span></div>
-		<div>Cumulative GPA: <span class="gpa">{{ degree.gpa }}</span></div>
-	</header>
+	<div class="degree">{{ degree.degree}}</div>
+	<div class="school">{{ degree.school }}</div>
+	<div>Awarded: <span class="awarded">{{ degree.date }}</span></div>
+	<div>Cumulative GPA: <span class="gpa">{{ degree.gpa }}</span></div>
 
 	<table id="courses">
 		<thead>
 			<tr>
-				<th>Number</th>
-				<th>Title</th>
-				<th>Hours</th>
-				<th>Grade</th>
-				<th>When</th>
+				<th class="col-number">Number</th>
+				<th class="col-title">Title</th>
+				<th class="col-hours">Hours</th>
+				<th class="col-grade">Grade</th>
+				<th class="col-when">When</th>
 			</tr>
 		</thead>
 		<tbody>

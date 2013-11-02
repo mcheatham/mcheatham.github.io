@@ -5,16 +5,24 @@ nav: 6
 ---
 ## Education
 
+<table id="education" style="width:100%">
+<tbody>
 {% include education.html degree=site.data.education.phd %}
 {% include education.html degree=site.data.education.ms %}
 {% include education.html degree=site.data.education.mba %}
 {% include education.html degree=site.data.education.bs %}
+</tbody>
+</table>
 
 ## Professional Experience
 
+<table id="work" style="width:100%">
+<tbody>
 {% for job in site.data.work %}
 {% include work.html job=job %}
 {% endfor %}
+</tbody>
+</table>
 
 ## Certifications
 

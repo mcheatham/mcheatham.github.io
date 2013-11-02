@@ -2,6 +2,7 @@
 title: Work Experience
 layout: main
 nav: 4
+label: Experience
 ---
 {% for entry in site.data.work %}
 <a id="{{ entry.id }}"></a>

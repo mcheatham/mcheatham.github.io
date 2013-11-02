@@ -2,6 +2,7 @@
 title: Curriculum Vitae
 layout: main
 nav: 5
+label: CV
 ---
 ## Research Interests
 
@@ -9,16 +10,24 @@ Computer, software, and network security, particularly in wireless sensor networ
 
 ## Education
 
+<table id="education" style="width:100%">
+<tbody>
 {% include education.html degree=site.data.education.phd %}
 {% include education.html degree=site.data.education.ms %}
 {% include education.html degree=site.data.education.mba %}
 {% include education.html degree=site.data.education.bs %}
+</tbody>
+</table>
 
 ## Professional Overview
 
+<table id="work" style="width:100%">
+<tbody>
 {% for job in site.data.work %}
 {% include work.html job=job %}
 {% endfor %}
+</tbody>
+</table>
 
 ## Research Summary
 
