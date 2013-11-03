@@ -1,9 +1,9 @@
-html, body { padding: 0; background: #e6e6dc; }
+html, body { padding: 0; background: #e9f1e6; }
 
 body {
-  background-image: url(../images/grass.jpg);
+  background-image: url(../images/grass2.jpg);
   background-repeat: no-repeat;
-  background-position: 0 -100px;
+  background-position: 0 -120px;
 }
 
 @media(min-width: 768px) {
