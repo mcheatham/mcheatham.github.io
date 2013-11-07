@@ -1,0 +1,61 @@
+- employer: Air Force Research Laboratory
+  title: Basic Research Specialist
+  start-date: 2002
+  end-date: 2010
+  id: afrl
+  details: >
+    This job began as a continuation of the type of web programming work I
+    had done at Bank of America. I wrote portlets that performed a variety
+    of business-related tasks, such as inventory tracking. After the first
+    year, my work shifted from web programming to basic research. I
+    currently evaluate research proposals, manage contractors doing R&D
+    tasks, and work on individual projects.  I have spent much of my free
+    time at work during the last year becoming more proficient in network
+    security, software reverse engineering techniques, and secure software
+    development.
+
+- employer: Bank of America
+  title: Web Programmer
+  start-date: 2001
+  end-date: 2002
+  id: boa
+  details: >
+    At Bank of America I worked together with four team members to enhance
+    content and personalization features on the company's consumer portal
+    website. Through this work I learned many of the basic web programming
+    technologies, including DHTML, CSS, XML, XSL, JavaScript, Java Server
+    Pages, and servlets. I also wrote schema and SQL queries for some of
+    the Oracle database tables underlying the site. In addition, I gained a
+    working knowledge of the J2EE architecture.
+
+- employer: University of Kentucky
+  title: Research Assistant
+  start-date: 2000
+  end-date: 2001
+  id: uk
+  details: >
+    While still an undergraduate, I worked as a research assistant to
+    develop a Java graphical user interface that allowed the user to
+    interact with an experimental system designed to test FPGAs
+    (programmable logic chips) for defects.
+
+- employer: National Security Agency
+  title: Computer Science Co-op
+  start-date: 1997
+  end-date: 1999
+  id: nsa
+  details: >
+    During the course of my three co-op tours at the National Security
+    Agency, I worked in two different offices. In the first office, I was
+    part of a five-person development team. My job primarily involved
+    reviewing requirements, UML diagrams, and use cases and writing C++
+    code to meet those specifications. While the work was very rudimentary,
+    this was my first real programming job, and I learned a great deal.
+
+    In the second office, I worked alone from a set of requirements to
+    develop a Java graphical user interface to allow remote manipulation of
+    an oscilloscope. Because this work involved aspects of Java that I had
+    not used before and required me to learn the native language of the
+    oscilloscope, it gave me the opportunity to learn how to work
+    independently and pour through documentation and examples to solve
+    problems that I had not been formally taught how to handle in school.

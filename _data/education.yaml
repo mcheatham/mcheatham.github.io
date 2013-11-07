@@ -1,0 +1,786 @@
+phd:
+  degree: PhD in Computer Science and Engineering
+  school: Wright State University
+  date: Aug 2014 (projected)
+  name: PhD
+  gpa: 3.947
+  courses:
+    - number: CS 780
+      title: Compiler Design and Construction
+      hours: 4.0
+      grade: A
+      when: Fall 2005
+      description: >
+        Complete compiler for a small programming language is discussed.
+        Topics covered are scanning, syntax analysis, and code generation.
+
+    - number: CS 784
+      title: Programming Languages
+      hours: 4.0
+      grade: A
+      when: Fall 2005
+      description: >
+        Programming paradigms and concepts for high level programming
+        languages.  Techniques for formal specification.
+
+    - number: CEG 699
+      title: Wireless Sensor Networks
+      hours: 4.0
+      grade: A
+      when: Winter 2007
+      description: >
+        Introduction to wireless sensor networks.  Overview of fundamental
+        problems and their solutions.  Focus on data aggregation,
+        dissemination, localization, power management, security, algorithms
+        and protocol.  Students develop applications using Micaz motes and
+        sensors running TinyOS operating systems.
+
+    - number: CS 740
+      title: Computational Complexity and Algorithms
+      hours: 4.0
+      grade: A
+      when: Winter 2007
+      description: >
+        Time complexity analysis of algorithms; computational complexity;
+        NP completeness.
+
+    - number: CS 892
+      title: PhD Qualifying Exam
+      hours: 1.0
+      grade: P
+      when: Spring 2007
+
+    - number: CS 895
+      title: Independent Study
+      hours: 4.0
+      grade: P
+      when: Summer 2007
+
+    - number: STT 611
+      title: Applied Time Series
+      hours: 4.0
+      grade: A
+      when: Summer 2007
+      description: >
+        Stochastic models for discrete time series in the time-domain,
+        moving average processes, autoregressive processes, model
+        identification, parameter estimation, and forecasting.  Statistical
+        computing software packages are used.
+
+    - number: CS 705
+      title: Data Mining
+      hours: 4.0
+      grade: A
+      when: Fall 2007
+      description: >
+        Data forms, data preparation, cleaning, feature selection,
+        discretization; high-level statistical analysis; associations;
+        classification; clustering; data cubes; interestingness, cross
+        validation; visualization; scalability; privacy and ethics;
+        applications.
+
+    - number: CS 884
+      title: Advanced Topics in Programming Languages
+      hours: 4.0
+      grade: A
+      when: Spring 2008
+      description: >
+        Continuation of CS 784.  Emphasis on formal methods for specifying
+        and defining both the syntax and the semantics of programming
+        languages.
+
+    - number: CS 897
+      title: Residency Research
+      hours: 8.0
+      grade: P
+      when: Spring 2008
+
+    - number: CS 897
+      title: Residency Research
+      hours: 8.0
+      grade: P
+      when: Summer 2008
+
+    - number: STT 601
+      title: Nonparametric Methods
+      hours: 4.0
+      grade: A
+      when: Summer 2008
+      description: >
+        Distribution-free estimation and hypothesis testing procedures.
+        Includes methods for use in one- and two-sample location and
+        dispersion problems, nonparametric alternatives to ANOVA and
+        regression, goodness-of-fit tests, measures of association, and
+        test for randomness.
+
+    - number: CS 897
+      title: Residency Research
+      hours: 8.0
+      grade: P
+      when: Fall 2008
+
+    - number: STT 646
+      title: Statistical Methods I
+      hours: 4.0
+      grade: A
+      when: Fall 2008
+      description: >
+        Classical statistical techniques for analysis and interpretation of
+        research data, with extensive use of statistical software.
+        Includes review of basic statistics.  Simple, multiple, and
+        polynomial regression, and single factor analysis of variance are
+        covered.
+
+    - number: CEG 820
+      title: Computer Architecture II
+      hours: 4.0
+      grade: A
+      when: Winter 2009
+      description: >
+        Study of parallel architectures and parallel processing.  Topics
+        include multiprocessors, cache coherence, synchronization
+        mechanisms, scalable architectures, and vectorization and
+        parallelization.
+
+ms:
+  degree: Master of Computer Science
+  school: Wright State University
+  date: Aug 2005
+  name: MS
+  awarded: 8/16/2005
+  gpa: 3.888
+  courses:
+    - number: CS 765
+      title: Foundations of Neurocomputing
+      hours: 4.0
+      grade: A
+      when: Winter 2003
+      description: >
+        Information processing in neural networks as a mode of computation
+        complementary to symbolic artificial intelligence, emphasizing
+        common ideas across different network architectures. Current
+        applications in machine learning and spatiotemporal pattern
+        recognition will be evaluated.
+
+    - number: CS 666
+      title: Introduction to Formal Languages
+      hours: 4.0
+      grade: A
+      when: Spring 2003
+      description: >
+        Introduction to the theory of formal languages and automata.
+        Emphasis is on those classes of languages commonly encountered by
+        computer scientists, such as regular and context-free languages.
+
+    - number: CS 680
+      title: Comparative Languages
+      hours: 4.0
+      grade: A
+      when: Spring 2003
+      description: >
+        Basic concepts and special purpose facilities in programming
+        languages, examined through several representative languages.
+
+    - number: CEG 660
+      title: Introduction to Software Engineering
+      hours: 4.0
+      grade: A
+      when: Summer 2003
+      description: >
+        Concepts of software engineering including analysis, design, and
+        implementation of software engineering concepts that comprise
+        structured programming and design. Case studies serve as examples
+        illustrating the software life-cycle model.
+
+    - number: CS 609
+      title: Principles of Artificial Intelligence
+      hours: 4.0
+      grade: A
+      when: Fall 2003
+      description: >
+        Problem-solving methods in artificial intelligence (AI) with
+        emphasis on heuristic approaches. Topics include knowledge
+        representation, search, intelligent agents, planning, learning,
+        natural language processing, logic, inference, robotics, and
+        case-based reasoning.
+
+    - number: CS 766
+      title: Evolutionary Computing
+      hours: 4.0
+      grade: A
+      when: Fall 2003
+      description: >
+        Explores evolutionary computation from a historical, theoretical,
+        and an application viewpoint. Evolutionary search techniques
+        including genetic algorithms, evolutionary programming, and genetic
+        programming applied to problems in control, optimization, and
+        classification are presented.
+
+    - number: CS 711
+      title: Knowledge-Based Systems
+      hours: 4.0
+      grade: A
+      when: Winter 2004
+      description: >
+        Continuation of CS 609. Topics covered include techniques for
+        handling judgmental knowledge, semantic networks, and frame-based
+        systems. Useful constructs and architectures for AI systems are
+        discussed.
+
+    - number: CS 799
+      title: Thesis
+      hours: 4.0
+      grade: P
+      when: Winter 2004
+
+    - number: CS 776
+      title: Functional Programming
+      hours: 4.0
+      grade: B
+      when: Spring 2004
+      description: >
+        In-depth look at functional programming techniques, and functional
+        languages and their implementation.
+
+    - number: CS 799
+      title: Thesis
+      hours: 4.0
+      grade: P
+      when: Spring 2004
+
+    - number: CEG 720
+      title: Computer Architecture
+      hours: 4.0
+      grade: A
+      when: Summer 2004
+      description: >
+        Review of sequential computer architecture and study of parallel
+        computers. Topics include memory hierarchy, reduced instruction set
+        computer, pipeline processing, multiprocessing, various parallel
+        computers, interconnection networks, and fault-tolerant computing.
+
+    - number: CS 795
+      title: Independent Study
+      hours: 4.0
+      grade: P
+      when: Summer 2004
+
+    - number: CS 799
+      title: Thesis
+      hours: 4.0
+      grade: P
+      when: Summer 2004
+
+    - number: CS 799
+      title: Thesis
+      hours: 1.0
+      grade: P
+      when: Spring 2005
+
+    - number: CS 799
+      title: Thesis
+      hours: 1.0
+      grade: P
+      when: Summer 2005
+
+mba:
+  degree: Master of Business Administration
+  school: University of Kentucky
+  date: May 2001
+  name: MBA
+  awarded: 5/6/2001
+  gpa: 3.917
+  transcript-intro: >
+    I received an qBA through the MBA/BS Engineering program. Here's the
+    description from UK's website:<br>
+    <em>The MBA/BS Engineering Program is a fully integrated five-year
+    program culminating with the awarding of both the Bachelor of
+    Engineering and Master of Business Administration (MBA) degrees. The
+    program includes a mandatory study abroad experience. It is a very
+    selective program limited to 15 students per year.</em>
+  courses:
+    - number: MGT 695
+      title: 'Individual Work in Management: International Business Issues'
+      hours: 3.0
+      grade: A
+      when: Summer 1999
+
+    - number: ACC 628
+      title: Financial/Managerial Accounting
+      hours: 3.0
+      grade: A
+      when: Fall 1999
+      description: >
+        A study of the application of accounting information and services
+        in the recognition or solution of management problems in business.
+
+    - number: DIS 620
+      title: Management Information Systems in Decision Making
+      hours: 3.0
+      grade: A
+      when: Fall 1999
+      description: >
+        In-depth consideration of the value of information in managerial
+        decision making. Topics include issues in design and evaluation of
+        management information systems, decision support systems, and
+        business expert systems.
+
+    - number: DIS 651
+      title: Quantitative Analysis in Business Decision Making
+      hours: 3.0
+      grade: A
+      when: Fall 1999
+      description: >
+        A study of key problem formulation and solution procedures in
+        business decision making. The topics studied include statistical
+        techniques integrated in decision making under uncertainty,
+        decision trees, queuing problems, and value of information. A major
+        segment of the course is devoted to the study of linear programming
+        problems, sensitivity analysis, assignment problems and
+        transportation problems.
+
+    - number: ECO 610
+      title: Managerial Economics
+      hours: 3.0
+      grade: A
+      when: Fall 1999
+      description: >
+        Analysis of applications of economic theory to management decision
+        making. Such problems as demand and cost determination, pricing,
+        and capital budgeting are treated.
+
+    - number: BA 610
+      title: Global Business Management
+      hours: 3.0
+      grade: B
+      when: Spring 2000
+
+    - number: FIN 600
+      title: Corporate Financial Policy
+      hours: 3.0
+      grade: A
+      when: Spring 2000
+      description: >
+        A study of financial management from the viewpoint of the corporate
+        financial officer. Areas studied include capital budgeting, capital
+        structure, financing decisions, working capital management,
+        dividend policy, and mergers and acquisitions.
+
+    - number: MGT 611
+      title: Organizational Behavior
+      hours: 3.0
+      grade: A
+      when: Spring 2000
+      description: >
+        A critical examination of behavior and performance within
+        organizations and between organizations. Special attention is paid
+        to the problem of performance at the individual, group, and formal
+        organizational level.
+
+    - number: MKT 600
+      title: Marketing Management
+      hours: 3.0
+      grade: A
+      when: Spring 2000
+      description: >
+        This course is designed to provide students with an understanding
+        of: the role of marketing function in an organization; the types of
+        marketing decisions and analytical procedures involved in making
+        each decision; the overall marketing planning process; and, the
+        impact of the social, economic, and legal environment on marketing
+        decisions.
+
+    - number: DIS 600
+      title: Production Management
+      hours: 3.0
+      grade: A
+      when: fall 2000
+      description: >
+        This course exposes the MBA generalist to the functional area of
+        production in both manufacturing and service sectors. Topics
+        include tactical decisions in production and operative
+        relationships with corporate strategy. The course emphasizes
+        operations planning and control.
+
+    - number: MGT 697
+      title: >
+        Top Management Leadership in a Contemporary Business Environment
+      hours: 3.0
+      grade: A
+      when: Fall 2000
+      description: >
+        Political, historical, and philosophical perspectives on the
+        meaning and processes of top management leadership. Applications of
+        leadership perspective to the development of organizational
+        culture, ethics and values, stakeholder relations,
+        business-government relations, and competitiveness.
+
+    - number: MGT 699
+      title: Business Policy/Strategy II
+      hours: 3.0
+      grade: A
+      when: Fall 2000
+      description: >
+        Strategic issues associated with multi-industry, multi-national,
+        multi-business and start-up management; strategy implementation and
+        institutionalization; planning systems.
+
+bs:
+  degree: BS in Computer Science
+  school: University of Kentucky
+  date: May 2001
+  name: BS
+  gpa: 3.888
+  awarded: 5/6/2001
+  courses:
+    - number: CHE 105
+      title: General College Chemistry I
+      hours: 3.0
+      grade: A
+      when: AP
+
+    - number: CHE 107
+      title: General College Chemistry II
+      hours: 3.0
+      grade: A
+      when: AP
+
+    - number: ENG 161
+      title: Introduction to Literature
+      hours: 3.0
+      grade: A
+      when: AP
+
+    - number: HIS 108
+      title: History of the U.S. through 1865
+      hours: 3.0
+      grade: P
+      when: AP
+
+    - number: HIS 109
+      title: History of the U.S. since 1865
+      hours: 3.0
+      grade: P
+      when: AP
+
+    - number: PS 101
+      title: American Government
+      hours: 3.0
+      grade: P
+      when: AP
+
+    - number: PS 210
+      title: 'Introduction to European Politics: East/West'
+      hours: 3.0
+      grade: P
+      when: AP
+
+    - number: SPI 202
+      title: Intermediate Spanish IV
+      hours: 3.0
+      grade: P
+      when: AP
+
+    - number: ECO 201
+      title: Principles of Economics I
+      hours: 3.0
+      grade: A
+      when: Fall 1996
+
+    - number: ENG 105
+      title: 'Writing: Accelerated Course'
+      hours: 3.0
+      grade: A-
+      when: Fall 1996
+
+    - number: PHY 231
+      title: General University Physics
+      hours: 4.0
+      grade: A
+      when: Spring 1997
+
+    - number: PHY 241
+      title: General University Physics Lab
+      hours: 1.0
+      grade: A-
+      when: Spring 1997
+
+    - number: RAE 270
+      title: Introduction to Russian Culture
+      hours: 3.0
+      grade: A
+      when: Spring 1997
+
+    - number: ACC 201
+      title: Financial Accounting I
+      hours: 3.0
+      grade: A
+      when: Fall 1997
+
+    - number: ECO 202
+      title: Principles of Economics II
+      hours: 3.0
+      grade: A
+      when: Fall 1997
+
+    - number: PHY 232
+      title: General University Physics
+      hours: 4.0
+      grade: A
+      when: Fall 1997
+
+    - number: PHY 242
+      title: General University Physics Lab
+      hours: 1.0
+      grade: A
+      when: Fall 1997
+
+    - number: ACC 202
+      title: Managerial Uses of Accounting Information
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+
+    - number: COM 181
+      title: Basic Public Speaking
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+
+    - number: PHY 251
+      title: Philosophy and Classical Physics
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+
+    - number: STA 281
+      title: Probability and Statistics
+      hours: 3.0
+      grade: A
+      when: Spring 1999
+
+    - number: AST 191
+      title: The Solar System
+      hours: 3.0
+      grade: A
+      when: Spring 2001
+
+    - number: CS 121
+      title: Computer Science I
+      hours: 4.0
+      grade: A
+      when: Fall 1996
+
+    - number: EE 101
+      title: Electrical Engineering Professions Seminar
+      hours: 1.0
+      grade: P
+      when: Fall 1996
+
+    - number: MA 113
+      title: Calculus I
+      hours: 4.0
+      grade: A-
+      when: Fall 1996
+
+    - number: MA 193
+      title: Calculus Workshop I
+      hours: 1.0
+      grade: P
+      when: Fall 1996
+
+    - number: CS 122
+      title: Computer Science II
+      hours: 4.0
+      grade: A
+      when: Spring 1997
+
+    - number: MA 114
+      title: Calculus II
+      hours: 4.0
+      grade: A-
+      when: Spring 1997
+
+    - number: MA 194
+      title: Calculus Workshop II
+      hours: 1.0
+      grade: P
+      when: Spring 1997
+
+    - number: ENG 399
+      title: Cooperative Engineering Education
+      hours: 1.0
+      grade: P
+      when: Summer 1997
+
+    - number: CS 216
+      title: Introduction to Software Engineering
+      hours: 3.0
+      grade: B
+      when: Fall 1997
+      description: >
+        Software engineering topics to include: life cycles, metrics,
+          requirements specifications, design methodologies, validation and
+          verification, testing, reliability and project planning. Students
+          will study and practice use of object-oriented design techniques
+          and software tools in a modern development environment.
+          Implementation of large programming projects will be stressed.
+
+    - number: MA 213
+      title: Calculus III
+      hours: 4.0
+      grade: A
+      when: Fall 1997
+
+    - number: ENG 399
+      title: Cooperative Engineering Education
+      hours: 1.0
+      grade: P
+      when: Spring 1998
+
+    - number: ENG 399
+      title: Cooperative Engineering Education
+      hours: 1.0
+      grade: P
+      when: Summer 1998
+
+    - number: EE 280
+      title: Design of Logic Circuits
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+      description: >
+        Boolean algebra; combinational logic circuits; synchronous
+        sequential circuits; asynchronous sequential circuits; design
+        problems using standard integrated circuits.
+
+    - number: MA 214
+      title: Calculus IV
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+
+    - number: MA 321
+      title: Introduction to Numerical Methods
+      hours: 3.0
+      grade: A
+      when: Fall 1998
+      description: >
+        Floating point arithmetic. Numerical linear algebra; elimination
+        with partial pivoting and scaling. Polynomial and piecewise
+        interpolation. Least squares approximation. Numerical integration.
+        Roots of nonlinear equations. Ordinary differential equations.
+
+    - number: CS 275
+      title: Discrete Mathematics
+      hours: 4.0
+      grade: A
+      when: Spring 1999
+      description: >
+        Topics in discrete math aimed at applications in Computer Science.
+        Fundamental principles: set theory, induction, relations,
+        functions, Boolean algebra. Techniques of counting: permutations,
+        combinations, recurrences, algorithms to generate them.
+        Introduction to graphs and trees.
+
+    - number: CS 315
+      title: Algorithm Design and Analysis
+      hours: 3.0
+      grade: A
+      when: Spring 1999
+      description: >
+        Introduction to the design and analysis of algorithms. Asymptotic
+        analysis of time complexity. Proofs of correctness. Algorithms and
+        advanced data structures for searching and sorting lists, graph
+        algorithms, numeric algorithms, and string algorithms. Polynomial
+        time computation and NP-completeness.
+
+    - number: CS 422
+      title: Numerical Solutions to Equations
+      hours: 3.0
+      grade: A
+      when: Spring 1999
+
+    - number: EE 380
+      title: Microcomputer Organization
+      hours: 3.0
+      grade: B
+      when: Spring 1999
+      description: >
+        Hardware and software organization of a typical computer; machine
+        language and assembler language programming, interfacing peripheral
+        devices, and input-output programming; real-time computer
+        applications, laboratory included.
+
+    - number: MA 322
+      title: Matrix Algebra and Applications
+      hours: 3.0
+      grade: B
+      when: Spring 1999
+
+    - number: CS 405G
+      title: Introduction to Database Systems
+      hours: 3.0
+      grade: A
+      when: Spring 2000
+      description: >
+        Study of fundamental concepts behind the design, implementation and
+        application of database systems. Brief review of
+        entity-relationship, hierarchical and network database models and
+        an in-depth coverage of the relational model including relational
+        algebra and calculi, relational database theory, concepts in schema
+        design and commercial database languages. }
+
+    - number: CS 471G
+      title: Networking and Distributed Operating Systems
+      hours: 3.0
+      grade: A
+      when: Fall 2000
+      description: >
+        Broad overview of networking concepts, with emphasis on data
+        communications. Layered protocols. Analog and digital channel
+        characteristics. Framing, error detection, error control, ARQ
+        protocols. Network-layer functionality. End-to-end transport.
+        Client-server architecture and programming.
+
+    - number: EE 461G
+      title: Introduction to Electronics
+      hours: 3.0
+      grade: P
+      when: Fall 2000
+      description: >
+        Analysis and design of electronic circuitry incorporating nonlinear
+        electronic elements such as transistors, FETs, and vacuum tubes.
+        Applications to amplifiers.
+
+    - number: CS 375
+      title: Logic/Theory of Computing
+      hours: 3.0
+      grade: A
+      when: Spring 2001
+      description: >
+        Topics in logic and theory of computation aimed at applications in
+        Computer Science. Logic, propositional calculus and predicate
+        calculus, tautologies, soundness, proofs. Finite Automata, regular
+        and non-regular languages. Regular expressions and their
+        applications in programming languages, Turing machines,
+        decidability, and complexity.
+
+    - number: CS 470G
+      title: Introduction to Operating Systems
+      hours: 3.0
+      grade: A
+      when: Spring 2001
+      description: >
+        This course provides an introduction of operating system design,
+        internals, and administration. Topics include process management,
+        scheduling, memory management, device drivers, file systems,
+        kernel/microkernel designs, concurrency, synchronization,
+        interprocess communication, security, protection, and operating
+        system administration.
+
+    - number: CS 499
+      title: Senior Design Project
+      hours: 3.0
+      grade: A
+      when: Spring 2001

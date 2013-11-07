@@ -1,2 +1,91 @@
+# listed in reverse order by date
 - author: Cleereman, K., Cheatham, M., and Krishnaprasad, T
   title: Mechanisms for Improved Covariant Type-Checking
+  publication: Journal of Computer Languages, Systems and Structures
+  volume: 34
+  issue: 1
+  pages: 1-17
+  date: April 2008
+  type: journal
+  keywords: type safe
+
+- author: Cheatham, Michelle; Harlow, Felicia and Cleereman K
+  title: Feature Selection for Collaborative Team Formation via SNA
+  publication: >
+    Proceedings of the 2007 International Conference on Data Mining (DMIN
+    07)
+  location: Las Vegas, NV, USA
+  date: June 2007
+  download: FeatureSelectionforCollaborativeTeam.pdf
+  type: conference
+  keywords: social network
+
+- author: >
+    Cleerman, Kevin; Cheatham, Michelle; and Thirunarayan, Krishnaprasad
+  title: >
+    Runtime Support of Speculative Optimization for Offline Escape Analysis
+  publication: Software Engineering Research and Practice (SERP) 2007
+  date: 2007
+  type: conference
+  keywords: type safe
+
+- author: Cheatham, Michelle A. and Cleereman, Kevin M
+  title: >
+    Application of Social Network Analysis to Collaborative Team
+    Formation
+  publication: >
+    Proceedings of the 2006 International Symposium on Collaborative
+    Technologies and Systems (CTS 2006)
+  location: Last Vegas, NV, USA
+  pages: 306-311
+  date: May 2006
+  download: cheatham_1010.pdf
+  type: conference
+  keywords: social network
+
+- author: Cheatham, Michelle A. and Rizki, Mateen
+  title: >
+    Feature and Prototype Evolution for Nearest Neighbor Classification
+    of Web Documents
+  publication: >
+    Proceedings of the Third International Conference on Information
+    Technology - New Generations (ITNG 2006)
+  location: Las Vegas, Nevada, USA
+  date: Apr 2006
+  pages: 364-369
+  download: Cheatham.pdf
+  type: conference
+  keywords: text classification
+
+- author: Cheatham, Michelle A. and Cox, Michael T
+  title: AI Workflow Management in a Collaborative Environment
+  publication: >
+    Proceedings of the 2005 International Symposium on Collaborative
+    Technologies and Systems (CTS 2005)
+  location: St. Louis, MO, USA
+  date: May 2005
+  pages: 160-166
+  download: C-43.pdf
+  type: conference
+  keywords: ai planning
+
+- author: Cheatham, Michelle A. and Cox, Michael T
+  title: AI Planning in Portal-based Workflow Management Systems
+  publication: >
+    Proceedings of the 2005 International Conference on Integration of
+    Knowledge Intensive Multi-Agent Systems (KIMAS 2005)
+  location: Waltham, MA, USA
+  date: Apr 2005
+  pages: 47-52
+  download: 1013_Cheatham.pdf
+  type: conference
+  keywords: ai planning
+
+- author: Cheatham, Michelle A
+  title: >
+    Feature and Prototype Evolution for Nearest Neighbor Classification of
+    Web Documents
+  publication: Masters thesis
+  location: Wright State University
+  date: 2005
+  keywords: text classification
