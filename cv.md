@@ -1,12 +1,14 @@
 ---
-title: Curriculum Vitae
+title: Curriculum Vitae (abbreviated)
 layout: main
-nav: 5
+nav: 8
 label: CV
 ---
 ## Research Interests
 
-Computer, software, and network security, particularly in wireless sensor networks.  Machine learning and artificial intelligence.
+Applying machine learning, artificial intelligence, and semantic technologies 
+to real-world problems, with a current focus on software reverse engineering 
+and privacy protection in Big Data.
 
 ## Education
 
@@ -28,34 +30,6 @@ Computer, software, and network security, particularly in wireless sensor networ
 {% endfor %}
 </tbody>
 </table>
-
-## Research Summary
-
-<ul class="flat">
-{% for area in site.data.research %}
-  <li>{{ area.description }} &mdash; <a href="{{site.baseurl}}{{ area.link }}">details</a></li>
-{% endfor %}
-</ul>
-
-## Publications
-
-### Journal
-<ul class="flat citations">
-{% include references_by_type.html type="journal" %}
-</ul>
-
-### Conference
-<ul class="flat citations">
-{% include references_by_type.html type="conference" %}
-</ul>
-
-## Service
-
-<ul class="flat">
-{% for job in site.data.service %}
-  <li>{{ job.job }}, {{ job.organization }}, {{ job.date }}</li>
-{% endfor %}
-</ul>
 
 ## Professional Associations
 

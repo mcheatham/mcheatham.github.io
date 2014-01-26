@@ -1,0 +1,22 @@
+- employer: Sinclair Community College 
+  title: Adjunct Professor/Course Developer 
+  start-date: 2010
+  end-date: present
+  id: sinclair
+  details: 
+    - Teach courses on Beginning and Advanced Java and C++ Programming, Data Structures 
+      and Algorithms, and Introduction to Object Oriented Design and Analysis, 
+      both in person and online.
+    - Developed curriculum and course material for online versions of the 
+      beginning and advanced Java programming courses. 
+    - Assisted in the alignment of online course material to a competency-based 
+      format in support of a $12 million grant from the Department of Labor. 
+
+- employer: Creative Therapy Consultants 
+  title: Independent Consultant 
+  start-date: August 2013
+  id: idf
+  details: 
+    - Modified a traditional course on infant-driven feeding in neonatal 
+      intensive care units for online delivery. The course is accredited 
+      for continuous education credits for nursing professionals. 

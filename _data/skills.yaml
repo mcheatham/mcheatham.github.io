@@ -1,12 +1,12 @@
 - group: Languages
   proficient:
     - Java
-    - Perl
+    - C++
     - XML
     - SQL
   familiar:
     - Visual Basic
-    - C++
+    - Perl
     - Lisp
     - ML
 
@@ -25,10 +25,12 @@
 - group: AI technologies
   proficient:
     - neural networks
-    - case based reasoning
+    - genetic algorithms
+    - machine learning and data mining
+    - OWL (web ontology language)
   familiar:
     - state space planning
-    - OWL (web ontology language)
+    - case based reasoning
 
 - group: Databases
   proficient:
@@ -39,5 +41,5 @@
   proficient:
     - object-oriented design and analysis
     - computer science theory
-    - machine learning
+    - software reverse engineering
     - wireless sensor networks

@@ -1,5 +1,68 @@
 # listed in reverse order by date
-- author: Cleereman, K., Cheatham, M., and Krishnaprasad, T
+- author: Cheatham, Michelle and Hitzler, Pascal
+  title: String Similarity Metrics for Ontology Alignment 
+  publication: Proceedings of the 12th International Semanatic Web Conference (ISWC)
+  location: Sydney, NSW, Australia
+  pages: 294-309
+  date: October 21-25, 2013 
+  download: stringmetrics.pdf
+  type: conference
+  keywords: alignment 
+
+- author: Cheatham, Michelle and Hitzler, Pascal
+  title: StringsAuto and MapSSS Results for OAEI 2013 
+  publication: Proceedings of the 8th International Workshop on Ontoloogy Matching
+  location: Sydney, NSW, Australia
+  pages: 146-152
+  date: 2013 
+  download: MapSSS2013.pdf
+  type: conference
+  keywords: alignment 
+
+- author: Cheatham, Michelle
+  title: MapSSS Results for OAEI 2011 
+  publication: Proceedings of the 6th International Workshop on Ontology Matching
+  location: Bonn, Germany
+  date: 2011 
+  download: MapSSS2011.pdf
+  type: conference
+  keywords: alignment 
+
+- author: Cheatham, Michelle and Raber, Jason
+  title: Function Insight&#58; Highlighting Suspicious Sections in Binary Run Traces 
+  publication: Proceedings of the 18th Working Conference on Reverse Engineering
+  location: Limerick, Ireland
+  date: 2011 
+  pages: 433-434
+  download: FunctionInsight.pdf
+  type: conference
+  keywords: reversing 
+
+- author: Cheatham, Michelle
+  title: Targeted Ontology Mapping 
+  publication: Proceedings of the 2010 International Symposium on Collaborative Technologies and Systems (CTS 2010)
+  location: Chicago, IL, USA
+  date: 2010 
+  pages: 123-132
+  download: TargetedOntologyMapping.pdf
+  type: conference
+  keywords: alignment 
+
+- title: The Internet of Things 
+  publication: Sustainable Data Community Forum 
+  location: Chicago, IL
+  date: 2013
+  type: talk
+  keywords: internet of things
+
+- title: Confidentiality in Wireless Sensor Networks 
+  publication: Charles River Analytics 
+  location: Boston, MA
+  date: 2008
+  type: talk
+  keywords: wsn
+
+- author: Cleereman, Kevin, Cheatham, Michelle, and Krishnaprasad, Thirunarayan
   title: Mechanisms for Improved Covariant Type-Checking
   publication: Journal of Computer Languages, Systems and Structures
   volume: 34
@@ -88,4 +151,5 @@
   publication: Masters thesis
   location: Wright State University
   date: 2005
+  type: other
   keywords: text classification

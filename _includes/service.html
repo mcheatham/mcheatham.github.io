@@ -1,0 +1,6 @@
+{% assign service = include.service %}
+{% for service in site.data.service %}
+{% if service.type == include.type %}
+<li>{{ service.job|strip_newlines }}, {{ service.organization|strip_newlines }}, {{ service.date|strip_newlines }}</li>
+{% endif %}
+{% endfor %}

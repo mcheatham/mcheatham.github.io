@@ -1,8 +1,8 @@
 ---
 title: Work Experience
 layout: main
-nav: 4
-label: Experience
+nav: 2
+label: Work
 ---
 {% for entry in site.data.work %}
 <a id="{{ entry.id }}"></a>
@@ -10,5 +10,9 @@ label: Experience
 
 <p>{{ entry.start-date }}&mdash;{{ entry.end-date }},&nbsp;&nbsp;<em>{{ entry.title }}</em><p>
 
-<p>{{ entry.details }}</p>
+<ul>
+{% for detail in entry.details %}
+<li>{{ detail }}</li>
+{% endfor %}
+</ul>
 {% endfor %}

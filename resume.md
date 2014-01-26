@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: main
-nav: 6
+nav: 9
 ---
 ## Education
 

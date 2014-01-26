@@ -1,61 +1,104 @@
+- employer: Riverside Research 
+  title: Sr. Developer/Task Mgr.
+  start-date: 2011
+  end-date: 2012
+  id: riverside
+  details: 
+    - Interim director of the development of an integrated software reverse 
+      engineering tool suite. This was the largest internal R&amp;D project in 
+      the history of the company, and the centerpiece of the new Cyber 
+      Security division.
+    - Primary developer of the visualization and artificial intelligence-related 
+      plugins to the reverse engineering tool suite, which are intended to 
+      assist reverse engineers in isolating the critical sections of a binary 
+      under analysis.
+    - Authored whitepapers, proposals, and conference papers; presented 
+      technical material at multiple conferences and government agencies.
+    - Managed the development team on an interim basis, including 
+      creating project strategy documents, timelines, and task assignments; 
+      hiring new team members, and mentoring junior team members;
+
+- employer: The Design Knowledge Company 
+  title: Sr. Developer/Proj. Leader 
+  start-date: 2009
+  end-date: 2011
+  id: tdkc
+  details: 
+    - Led the development of numerous software tools involving the application 
+      of artificial intelligence, machine learning, data mining, and human 
+      interface design principles to problems in military command and control 
+      domains (air, space, and cyber).
+    - Complete SBIR lifecycle experience on a project known as BUCK-I, from 
+      lead technical author on the proposal, to development and technical 
+      project managemant of the Phase I work, to customer demonstration and 
+      Phase II proposal, and on into Phase II development. The project has 
+      since gone on to win a Phase III award. Components from this project 
+      have also been integrated into the company's primary product, the Agile 
+      Work Environment.
+    - Lead technical author of several government contract proposals that 
+      brought in nearly $1 million in my first year of employment. Led the 
+      technical development of several of these projects, and frequently gave 
+      technical presentations and demonstrations of the resulting work to 
+      high-level customers. 
+
 - employer: Air Force Research Laboratory
   title: Basic Research Specialist
   start-date: 2002
-  end-date: 2010
+  end-date: 2009
   id: afrl
-  details: >
-    This job began as a continuation of the type of web programming work I
-    had done at Bank of America. I wrote portlets that performed a variety
-    of business-related tasks, such as inventory tracking. After the first
-    year, my work shifted from web programming to basic research. I
-    currently evaluate research proposals, manage contractors doing R&D
-    tasks, and work on individual projects.  I have spent much of my free
-    time at work during the last year becoming more proficient in network
-    security, software reverse engineering techniques, and secure software
-    development.
+  details: 
+    - Conducted theoretical and applied research in a variety of areas 
+      including machine learning and artificial intelligence, data mining, 
+      social network analysis, security, and wireless sensor networks. This 
+      work involved authoring several conference and journal papers, as well 
+      as designing and coding proof-of-concept implementations.
+    - Researched a quorum-based secret sharing approach to providing increased 
+      confidentiality in wireless sensor networks in the event the encryption 
+      keys were compromised.
+    - Presented technical material to senior Air Force leaders and at several 
+      academic conferences and companies; served as a liaison between my 
+      division and the Air Force Office of Scientific Research (AFOSR).
+    - Initiated and served as the technical point of contact for two Small 
+      Business Innovative Research (SBIR) projects&#58; AF083-171 Trust-Based 
+      Dynamic Routing Protocol for Wireless Sensor Networks and OSD08-IA3 
+      Trusted Querying of Wireless Sensor Networks. Each of these involved 
+      authoring the topic solicitation, convening and leading a review panel 
+      to choose the companies for awards, and monitoring the progress of the 
+      research. The total investment in these efforts was $2,075,000.
 
 - employer: Bank of America
-  title: Web Programmer
+  title: Applications Programmer
   start-date: 2001
   end-date: 2002
   id: boa
-  details: >
-    At Bank of America I worked together with four team members to enhance
-    content and personalization features on the company's consumer portal
-    website. Through this work I learned many of the basic web programming
-    technologies, including DHTML, CSS, XML, XSL, JavaScript, Java Server
-    Pages, and servlets. I also wrote schema and SQL queries for some of
-    the Oracle database tables underlying the site. In addition, I gained a
-    working knowledge of the J2EE architecture.
+  details:
+    - Worked together with four team members to enhance content and 
+      personalization features on the company's consumer portal website using 
+      BroadVision Enterprise. This work involved developing XML document-type 
+      definitions (DTDs) and stylesheets (XSLs), TKL scripts, and database 
+      schemas.
+    - Ran the weekly programming team organizational meeting and reported to 
+      management on the team's progress.
 
-- employer: University of Kentucky
-  title: Research Assistant
-  start-date: 2000
-  end-date: 2001
-  id: uk
-  details: >
-    While still an undergraduate, I worked as a research assistant to
-    develop a Java graphical user interface that allowed the user to
-    interact with an experimental system designed to test FPGAs
-    (programmable logic chips) for defects.
+#- employer: University of Kentucky
+#  title: Research Assistant
+#  start-date: 2000
+#  end-date: 2001
+#  id: uk
+#  details: >
+#    While still an undergraduate, I worked as a research assistant to
+#    develop a Java graphical user interface that allowed the user to
+#    interact with an experimental system designed to test FPGAs
+#    (programmable logic chips) for defects.
 
 - employer: National Security Agency
   title: Computer Science Co-op
   start-date: 1997
   end-date: 1999
   id: nsa
-  details: >
-    During the course of my three co-op tours at the National Security
-    Agency, I worked in two different offices. In the first office, I was
-    part of a five-person development team. My job primarily involved
-    reviewing requirements, UML diagrams, and use cases and writing C++
-    code to meet those specifications. While the work was very rudimentary,
-    this was my first real programming job, and I learned a great deal.
-
-    In the second office, I worked alone from a set of requirements to
-    develop a Java graphical user interface to allow remote manipulation of
-    an oscilloscope. Because this work involved aspects of Java that I had
-    not used before and required me to learn the native language of the
-    oscilloscope, it gave me the opportunity to learn how to work
-    independently and pour through documentation and examples to solve
-    problems that I had not been formally taught how to handle in school.
+  details:
+    - Worked from a set of requirements to design and implement a Java 
+      graphical user interface to allow remote manipulation of an electronic 
+      device via native methods.
+    - Worked as part of a team to produce C++ code from UML diagrams and use 
+      cases.

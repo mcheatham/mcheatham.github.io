@@ -1,0 +1,4 @@
+{% assign funds = include.funds %}
+{% for funds in site.data.funds %}
+<br><li>{{ funds.role|strip_newlines }}, {{ funds.source|strip_newlines }}, {{ funds.project|strip_newlines }}, {{ funds.amount }}, {{ funds.date }}</li>
+{% endfor %}

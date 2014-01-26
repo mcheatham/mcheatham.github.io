@@ -1,0 +1,36 @@
+# listed in reverse order by date
+- role: Recipient
+  source: Association for the Advancement of Artificial Intelligence 
+  project: FSS-13 AAAI Travel Scholarship 
+  amount: $250
+  date: Nov 2013
+
+- role: Recipient
+  source: National Science Foundation
+  project: student travel grant
+  amount: $2000
+  date: Oct 2013
+
+- role: Technical author and project manager (PI Dr. Jim McCracken, Founder, TDKC)
+  source: Contract No. FA8650-10-C-6121
+  project: BUCKI Phase II
+  amount: $749,983
+  date: 5/6/2010 - 6/5/2012
+
+- role: Technical author and project manager (PI Dr. Jim McCracken, Founder, TDKC)
+  source: Contract No. FA8650-09-M-6989
+  project: BUCKI Phase I
+  amount: $99,998
+  date: 3/13/2009 - 1/13/2010
+
+- role: Lead developer and technical project manager (PI Dr. Jim McCracken, Founder, TDKC)
+  source: Contract No. FA9453-09-M-0118
+  project: COSMIC Phase I
+  amount: $99,995
+  date: 2/11/2009 - 2/12/2010
+
+- role: Recipient
+  source: National Merit Scholarship Foundation
+  project: National Merit Scholarship 
+  amount: undergraduate tuition 
+  date: 1996 - 2000 

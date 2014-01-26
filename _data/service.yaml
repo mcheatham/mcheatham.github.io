@@ -1,11 +1,69 @@
-- job: Peer reviewer
+- job: Program Committee Member
+  organization: International Conference on Artificial Intelligence&#58; Methodology, Systems, Applicatons
+  date: 2014
+  type: professional
+
+- job: Peer Reviewer 
+  organization: Journal on Data Semantics 
+  date: 2013
+  type: professional
+
+- job: In-Use Track Review Committee Member
+  organization: International Semantic Web Conference 
+  date: 2013
+  type: professional
+
+- job: Peer Reviewer
+  organization: Formal Concept Analysis for Artificial Intelligence 
+  date: 2013
+  type: professional
+
+- job: Peer Reviewer
+  organization: International Workshop on Description Logics 
+  date: 2012
+  type: professional
+
+- job: Peer Reviewer
+  organization: World Wide Web Conference 
+  date: 2013
+  type: professional
+
+- job: Peer Reviewer
+  organization: AAAI Artificial Intelligence on the Web Workshop 
+  date: 2012
+  type: professional
+
+- job: Peer Reviewer
   organization: Milcom Conference on Military Communications
   date: 2009
+  type: professional
 
-- job: Peer reviewer
+- job: Peer Reviewer
   organization: Conference on Collaborative Technologies and Systems
-  date: 2005-2009
+  date: 2005-2010
+  type: professional
 
 - job: Co-registration chair
   organization: Conference on Collaborative Technologies and Systems
   date: 2006
+  type: professional
+
+- job: Registration chair
+  organization: Conference on Collaborative Technologies and Systems
+  date: 2005
+  type: professional
+
+- job: Technical Judge 
+  organization: First Lego League Student Robotics Competition 
+  date: 2005-2009
+  type: community
+
+- job: President 
+  organization: University of Kentucky Chapter of the Association for Computing Machinery (ACM) 
+  date: 2000-2001
+  type: community
+
+- job: Organizer
+  organization: ACM high school programming competition 
+  date: 2000
+  type: community
