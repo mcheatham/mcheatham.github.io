@@ -2,10 +2,8 @@
 layout: main
 title: Home
 nav: 1
+schema: Person
 ---
-<div itemscope itemtype="http://schema.org/Person">
-{% capture m %}
-
 <img itemprop="image" src="{{ site.baseurl }}/images/me.JPG"
 	class="img-responsive" style="width:175px;margin:2em;float:right">
 
@@ -31,7 +29,5 @@ beers with my husband <span itemprop="spouse" itemscope itemtype="http://schema.
 eat the cat").
 
 I can be reached at <span itemprop="email">firstname.lastname@gmail.com</span>
-{% endcapture %}{{m | markdownify }}
-</div>
 
 <!-- add photos of me, Jason and beer, and Shiloh -->

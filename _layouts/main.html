@@ -31,7 +31,13 @@
 		<div role="main" class="container">
 			<div role="content">
 				<h1>{{ page.title }}</h1>
+				{% if page.schema %}
+				<div itemscope itemtype="http://schema.org/{{ page.schema }}">
+				{% endif %}
 				{{ content }}
+				{% if page.schema %}
+				</div>
+				{% endif %}
 			</div>
 		</div>
 
