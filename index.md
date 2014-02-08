@@ -3,12 +3,13 @@ layout: main
 title: Home
 nav: 1
 ---
-<span itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="http://schema.org/Person">
+{% capture m %}
 
 <img itemprop="image" src="{{ site.baseurl }}/images/me.JPG"
 	class="img-responsive" style="width:175px;margin:2em;float:right">
 
-Hi, I'm <span itemprop="givenName">Michelle</span> <span itemprop="familyName">Cheatham</span>. I'm currently a <span itemprop="jobTitle">Computer Science PhD student</span> at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="http://www.wright.edu"><span itemprop="name">Wright State University</span></a></span> in <span itemprop="workLocation" itemscope itemtype="http://schema.org/Place"><a itemprop="url" href="http://en.wikipedia.org/wiki/Dayton,_Ohio"><span itemprop="name">Dayton, Ohio</span></a></span>. I work as a
+Hi, I'm <span itemprop="name"><span itemprop="givenName">Michelle</span> <span itemprop="familyName">Cheatham</span></span>. I'm currently a <span itemprop="jobTitle">Computer Science PhD student</span> at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="http://www.wright.edu"><span itemprop="name">Wright State University</span></a></span> in <span itemprop="workLocation" itemscope itemtype="http://schema.org/Place"><a itemprop="url" href="http://en.wikipedia.org/wiki/Dayton,_Ohio"><span itemprop="name">Dayton, Ohio</span></a></span>. I work as a
 <span itemprop="jobTitle">graduate research assistant</span> in the <span itemprop="memberOf" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="http://knoesis.wright.edu/faculty/pascal/daselab.html"><span itemprop="name">Data Semantics (DaSe) Lab</span></a></span>, under the direction of <span itemprop="colleague" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="http://www.pascal-hitzler.de"><span itemprop="name"><span itemprop="givenName">Pascal</span> <span itemprop="familyName">Hitzler</span></span></a></span>.
 
 I'm a somewhat non-traditional student, in that I worked as a civil servant 
@@ -30,6 +31,7 @@ beers with my husband <span itemprop="spouse" itemscope itemtype="http://schema.
 eat the cat").
 
 I can be reached at <span itemprop="email">firstname.lastname@gmail.com</span>
-</span>
+{% endcapture %}{{m | markdownify }}
+</div>
 
 <!-- add photos of me, Jason and beer, and Shiloh -->
