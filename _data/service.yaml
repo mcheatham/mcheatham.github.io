@@ -1,3 +1,13 @@
+- job: Qualification Judge
+  organization: High School Trebuchet Competition
+  date: 2014
+  type: community
+
+- job: Peer Reviewer 
+  organization: Conference on Collaborative Technologies and Systems
+  date: 2014
+  type: professional
+
 - job: Peer Reviewer 
   organization: European Semantic Web Conference
   date: 2014
