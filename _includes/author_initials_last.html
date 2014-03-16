@@ -1,0 +1,1 @@
+{% assign parts = author | split:' ' %}{% for p in parts %}{% if forloop.rindex > 1 %}{{ p | truncate:1, '' }}. {% else %}{{ p }}{% endif %}{% endfor %}{% if suffix %}{{ suffix }}{% endif %}

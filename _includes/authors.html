@@ -1,0 +1,11 @@
+{% assign authors = include.authors %}
+{% for author in authors %}
+	{% if forloop.last %}
+	  	{% assign suffix = '.' %}
+	{% elsif forloop.rindex == 2 %}
+	  	{% assign suffix = ' and ' %}
+  	{% else %}
+	  	{% assign suffix = ', ' %}
+	{% endif %}
+	{% include author_initials_last.html %}
+{% endfor %}
