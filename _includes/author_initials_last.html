@@ -1,1 +1,2 @@
-{% assign parts = author | split:' ' %}{% for p in parts %}{% if forloop.rindex > 1 %}{{ p | truncate:1, '' }}. {% else %}{{ p }}{% endif %}{% endfor %}{% if suffix %}{{ suffix }}{% endif %}
+{% assign person = site.data.people[author] %}
+{{ person.first | truncate:1, '' }}. {% if person.middle %}{{ person.middle | truncate:1, '' }}. {% endif %}{{ person.last }}{% if suffix %}{{ suffix }}{% endif %}

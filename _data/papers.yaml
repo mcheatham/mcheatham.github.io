@@ -1,8 +1,8 @@
 # listed in reverse order by date
 - title: String Similarity Metrics for Ontology Alignment 
   authors:
-    - Michelle Cheatham
-    - Pascal Hitzler
+    - mcheatham
+    - phitzler
   publication: Proceedings of the 12th International Semantic Web Conference (ISWC)
   location: Sydney, NSW, Australia
   pages: 294-309
@@ -13,8 +13,8 @@
 
 - title: StringsAuto and MapSSS Results for OAEI 2013 
   authors:
-    - Michell Cheatham
-    - Pascal Hitzler
+    - mcheatham
+    - phitzler
   publication: Proceedings of the 8th International Workshop on Ontoloogy Matching
   location: Sydney, NSW, Australia
   pages: 146-152
@@ -25,7 +25,7 @@
 
 - title: MapSSS Results for OAEI 2011 
   authors:
-    - Michelle Cheatham
+    - mcheatham
   publication: Proceedings of the 6th International Workshop on Ontology Matching
   location: Bonn, Germany
   date: 2011 
@@ -35,8 +35,8 @@
 
 - title: Function Insight&#58; Highlighting Suspicious Sections in Binary Run Traces 
   authors:
-    - Michelle Cheatham
-    - Jason Raber
+    - mcheatham
+    - jraber
   publication: Proceedings of the 18th Working Conference on Reverse Engineering
   location: Limerick, Ireland
   date: 2011 
@@ -47,7 +47,7 @@
 
 - title: Targeted Ontology Mapping 
   authors:
-    - Michelle Cheatham
+    - mcheatham
   publication: Proceedings of the 2010 International Symposium on Collaborative Technologies and Systems (CTS 2010)
   location: Chicago, IL, USA
   date: 2010 
@@ -72,9 +72,9 @@
 
 - title: Mechanisms for Improved Covariant Type-Checking
   authors:
-    - Kevin Cleereman
-    - Michelle Cheatham
-    - Thirunarayan Krishnaprasad
+    - kcleereman
+    - mcheatham
+    - tprasad
   publication: Journal of Computer Languages, Systems and Structures
   volume: 34
   issue: 1
@@ -85,9 +85,9 @@
 
 - title: Feature Selection for Collaborative Team Formation via SNA
   authors:
-    - Michelle Cheatham
-    - Felicia Harlow
-    - Kevin Cleereman
+    - mcheatham
+    - fharlow
+    - kcleereman
   publication: >
     Proceedings of the 2007 International Conference on Data Mining (DMIN
     07)
@@ -100,9 +100,9 @@
 - title: >
     Runtime Support of Speculative Optimization for Offline Escape Analysis
   authors:
-    - Kevin Cleerman
-    - Michelle Cheatham
-    - Krishnaprasad Thirunarayan
+    - kcleereman
+    - mcheatham
+    - tprasad
   publication: Software Engineering Research and Practice (SERP) 2007
   date: 2007
   type: conference
@@ -112,8 +112,8 @@
     Application of Social Network Analysis to Collaborative Team
     Formation
   authors:
-    - Michelle A. Cheatham
-    - Kevin M. Cleereman
+    - mcheatham
+    - kcleereman
   publication: >
     Proceedings of the 2006 International Symposium on Collaborative
     Technologies and Systems (CTS 2006)
@@ -128,8 +128,8 @@
     Feature and Prototype Evolution for Nearest Neighbor Classification
     of Web Documents
   authors:
-    - Michelle A. Cheatham
-    - Mateen Rizki
+    - mcheatham
+    - mrizki
   publication: >
     Proceedings of the Third International Conference on Information
     Technology - New Generations (ITNG 2006)
@@ -142,8 +142,8 @@
 
 - title: AI Workflow Management in a Collaborative Environment
   authors:
-    - Michelle A. Cheatham
-    - Michael T. Cox
+    - mcheatham
+    - mcox
   publication: >
     Proceedings of the 2005 International Symposium on Collaborative
     Technologies and Systems (CTS 2005)
@@ -156,8 +156,8 @@
 
 - title: AI Planning in Portal-based Workflow Management Systems
   authors:
-    - Michelle A. Cheatham
-    - Michael T. Cox
+    - mcheatham
+    - mcox
   publication: >
     Proceedings of the 2005 International Conference on Integration of
     Knowledge Intensive Multi-Agent Systems (KIMAS 2005)
@@ -172,7 +172,7 @@
     Feature and Prototype Evolution for Nearest Neighbor Classification of
     Web Documents
   authors:
-    - Michelle A. Cheatham
+    - mcheatham
   publication: Masters thesis
   location: Wright State University
   date: 2005
