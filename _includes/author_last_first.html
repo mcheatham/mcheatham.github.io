@@ -1,0 +1,2 @@
+{% assign person = site.data.people[author] %}
+{% if forloop.first %}<span itemprop="author" itemscope itemtype="http://schema.org/Person">{% else %}<span itemprop="contributor" itemscope itemtype="http://schema.org/Person">{% endif %}{% if person.homepage %}<a itemprop="url" href="http://{{person.homepage}}">{% endif %}<span itemprop="name"><span itemprop="familyName">{{person.last}}</span>, <span itemprop="givenName">{{person.first}}</span></span>{% if person.homepage %}</a>{% endif %}</span>{% if suffix %}{{ suffix }}{% endif %}
