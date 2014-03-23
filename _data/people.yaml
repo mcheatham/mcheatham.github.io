@@ -1,11 +1,13 @@
 mcheatham:
   first: Michelle
-  middle: A.
+  middle: Andreen
   last: Cheatham
+  homepage: michellecheatham.com 
 
 phitzler:
   first: Pascal
   last: Hitzler
+  homepage: pascal-hitzler.de
 
 jraber:
   first: Jason
@@ -13,12 +15,13 @@ jraber:
 
 kcleereman:
   first: Kevin
-  middle: M.
+  middle: Michael
   last: Cleereman
 
 tprasad:
   first: Thirunarayan
   last: Krishnaprasad
+  homepage: cecs.wright.edu/~tkprasad/
 
 fharlow:
   first: Felicia
@@ -27,8 +30,10 @@ fharlow:
 mrizki:
   first: Mateen
   last: Rizki
+  homepage: cecs.wright.edu/~mrizki/
 
 mcox:
   first: Michael
-  middle: T.
+  middle: T
   last: Cox
+  homepage: mcox.org

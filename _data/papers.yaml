@@ -4,9 +4,10 @@
     - mcheatham
     - phitzler
   publication: Proceedings of the 12th International Semantic Web Conference (ISWC)
+  website: http://iswc2013.semanticweb.org
   location: Sydney, NSW, Australia
   pages: 294-309
-  date: October 21-25, 2013 
+  date: 2013-10-01
   download: stringmetrics.pdf
   type: conference
   keywords: alignment 
@@ -15,10 +16,11 @@
   authors:
     - mcheatham
     - phitzler
-  publication: Proceedings of the 8th International Workshop on Ontoloogy Matching
+  publication: Proceedings of the 8th International Workshop on Ontology Matching
+  website: http://om2013.ontologymatching.org
   location: Sydney, NSW, Australia
   pages: 146-152
-  date: 2013 
+  date: 2013-10-01
   download: MapSSS2013.pdf
   type: conference
   keywords: alignment 
@@ -27,8 +29,9 @@
   authors:
     - mcheatham
   publication: Proceedings of the 6th International Workshop on Ontology Matching
+  website: http://om2011.ontologymatching.org
   location: Bonn, Germany
-  date: 2011 
+  date: 2011-10-01
   download: MapSSS2011.pdf
   type: conference
   keywords: alignment 
@@ -38,8 +41,9 @@
     - mcheatham
     - jraber
   publication: Proceedings of the 18th Working Conference on Reverse Engineering
+  website: http://www.cs.wm.edu/semeru/wcre2011/
   location: Limerick, Ireland
-  date: 2011 
+  date: 2011-10-01
   pages: 433-434
   download: FunctionInsight.pdf
   type: conference
@@ -49,8 +53,9 @@
   authors:
     - mcheatham
   publication: Proceedings of the 2010 International Symposium on Collaborative Technologies and Systems (CTS 2010)
+  website: http://cisedu.us/cis/cts/10/main/callForPapers.jsp
   location: Chicago, IL, USA
-  date: 2010 
+  date: 2010-05-01 
   pages: 123-132
   download: TargetedOntologyMapping.pdf
   type: conference
@@ -59,14 +64,14 @@
 - title: The Internet of Things 
   publication: Sustainable Data Community Forum 
   location: Chicago, IL
-  date: 2013
+  date: 2013-07-01
   type: talk
   keywords: internet of things
 
 - title: Confidentiality in Wireless Sensor Networks 
   publication: Charles River Analytics 
   location: Boston, MA
-  date: 2008
+  date: 2008-07-01
   type: talk
   keywords: wsn
 
@@ -76,10 +81,11 @@
     - mcheatham
     - tprasad
   publication: Journal of Computer Languages, Systems and Structures
+  website: http://www.journals.elsevier.com/computer-languages-systems-and-structures/
   volume: 34
   issue: 1
   pages: 1-17
-  date: April 2008
+  date: 2008-04-01
   type: journal
   keywords: type safe
 
@@ -91,8 +97,9 @@
   publication: >
     Proceedings of the 2007 International Conference on Data Mining (DMIN
     07)
+  website: http://www.dmin-2007.com
   location: Las Vegas, NV, USA
-  date: June 2007
+  date: 2007-06-01
   download: FeatureSelectionforCollaborativeTeam.pdf
   type: conference
   keywords: social network
@@ -104,7 +111,7 @@
     - mcheatham
     - tprasad
   publication: Software Engineering Research and Practice (SERP) 2007
-  date: 2007
+  date: 2007-06-01
   type: conference
   keywords: type safe
 
@@ -119,7 +126,7 @@
     Technologies and Systems (CTS 2006)
   location: Last Vegas, NV, USA
   pages: 306-311
-  date: May 2006
+  date: 2006-05-01
   download: cheatham_1010.pdf
   type: conference
   keywords: social network
@@ -134,7 +141,7 @@
     Proceedings of the Third International Conference on Information
     Technology - New Generations (ITNG 2006)
   location: Las Vegas, Nevada, USA
-  date: Apr 2006
+  date: 2006-04-01
   pages: 364-369
   download: Cheatham.pdf
   type: conference
@@ -148,7 +155,7 @@
     Proceedings of the 2005 International Symposium on Collaborative
     Technologies and Systems (CTS 2005)
   location: St. Louis, MO, USA
-  date: May 2005
+  date: 2005-05-01
   pages: 160-166
   download: C-43.pdf
   type: conference
@@ -162,7 +169,7 @@
     Proceedings of the 2005 International Conference on Integration of
     Knowledge Intensive Multi-Agent Systems (KIMAS 2005)
   location: Waltham, MA, USA
-  date: Apr 2005
+  date: 2005-04-01
   pages: 47-52
   download: 1013_Cheatham.pdf
   type: conference
@@ -175,6 +182,6 @@
     - mcheatham
   publication: Masters thesis
   location: Wright State University
-  date: 2005
+  date: 2005-08-01
   type: other
   keywords: text classification
