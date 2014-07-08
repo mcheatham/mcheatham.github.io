@@ -1,4 +1,15 @@
 # listed in reverse order by date
+- title: Conference v2 - An uncertain version of the OAEI Conference benchmark
+  authors:
+    - mcheatham
+    - phitzler
+  publication: Proceedings of the 13th International Semantic Web Conference (ISWC)
+  website: http://iswc2014.semanticweb.org
+  location: Riva del Garda, Trentino, Italy
+  date: 2014-10-19
+  type: conference
+  keywords: alignment 
+
 - title: String Similarity Metrics for Ontology Alignment 
   authors:
     - mcheatham
