@@ -1,7 +1,7 @@
 phd:
   degree: PhD in Computer Science and Engineering
   school: Wright State University
-  date: Aug 2014 (projected)
+  date: Aug 2014
   name: PhD
   gpa: 3.947
   courses:
@@ -91,13 +91,7 @@ phd:
 
     - number: CS 897
       title: Residency Research
-      hours: 8.0
-      grade: P
-      when: Spring 2008
-
-    - number: CS 897
-      title: Residency Research
-      hours: 8.0
+      hours: 12.0
       grade: P
       when: Summer 2008
 
@@ -115,7 +109,7 @@ phd:
 
     - number: CS 897
       title: Residency Research
-      hours: 8.0
+      hours: 12.0
       grade: P
       when: Fall 2008
 
@@ -141,6 +135,24 @@ phd:
         include multiprocessors, cache coherence, synchronization
         mechanisms, scalable architectures, and vectorization and
         parallelization.
+
+    - number: CS 8950
+      title: Dissertation Research 
+      hours: 12.0
+      grade: P
+      when: Spring 2013
+
+    - number: CS 8960
+      title: PhD Candidacy Exam 
+      hours: 1.0
+      grade: P
+      when: Spring 2014
+
+    - number: CS 8990
+      title: Dissertation Defense 
+      hours: 6.0
+      grade: P
+      when: Summer 2014
 
 ms:
   degree: Master of Computer Science

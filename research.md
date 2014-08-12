@@ -17,16 +17,71 @@ that two ontologies that represent the same domain will not necessarily be the
 same. The goal of ontology alignment is to determine when an entity in one
 ontology is semantically related to an entity in another ontology. 
 
-My dissertation research has been focused on this topic. I began  by examining
+My dissertation research focused on this topic. I began by examining
 the performance of different string metrics when applied to ontology alignment.
 It is important to systematically analyze this because all current alignment systems
 use a string similarity metric in some capacity. Therefore, improvement in
 metric selection will improve the state of the art in the field generally. This 
-work was published at ISWC. I now plan to focus on developing an alignment 
-system that finds relationships other that 1-to-1 equivalences.
+work was published at ISWC. The work showed that choosing string similarity metrics 
+carefully, based on characteristics of the particular ontologies to be aligned, can 
+achieve very good performance on class alignment. Aligning properties is more 
+challenging though, both for string metrics and full-featured alignment systems. I 
+developed a string-based approach to property alignment as part of my dissertation 
+that achieves much better performance.
+
+Going forward, I plan to focus on co-reference resolution and finding more complex 
+relationships between ontologies than 1-to-1 equivalences. My hope is to use a 
+combination of natural language processing, statistical, and design pattern-based 
+approaches to achieve this goal. 
 
 <ul>
 {% include references_by_subject.html subject="alignment" %}
+</ul>
+
+<a id="odp"></a>
+Ontology Design Patterns
+----------------------------
+
+There are some concepts that come up repeatedly across many different datasets 
+on the Semantic Web. Examples include groups of entities describing the trajectory 
+of a moving object, such as a person, migrating bird, or ship, or information 
+about an organization, such as its location, the people involved, the things it 
+produces, etc. These recurring concepts are often encoded as Ontology Design 
+Patterns. An ODP is a self-contained partial ontology. It represents the core 
+components of the concept it seeks to model, as identified by domain experts. 
+ODPs avoid making any unnecessary ontological commitments in order to remain 
+applicable in a diverse range of situations. I have been to several GeoVoCamps, 
+in which domain experts come together with modelling experts to create ontology 
+design patterns important for datasets in their field of interest. In addition 
+to continued involvement in these kinds of modelling exercises, I would like to 
+investigate the potential for using these ODPs for ontology alignment and for making 
+sense of unstructured text available on the web. 
+
+<ul>
+{% include references_by_subject.html subject="odp" %}
+</ul>
+
+<a id="privacy"></a>
+Privacy Concerns of Big Data
+----------------------------
+
+I am also interested in applying ontology alignment techniques to issues related 
+to the privacy concerns of Big Data. Currently, many linked datasets are 
+anonymized before being made available on the Semantic Web. This anonymization 
+process often involves ensuring k-anonymity, which requires that at least k 
+individuals have all possible combinations of pseudo- identifier characteristics. 
+For instance, if the dataset contains information about people’s voting district, 
+gender, and birth month and year, at least k people would be required to have all 
+combinations of these attributes (if not, either fake data is added or the 
+information is made more coarse, e.g. by providing only birth year rather than 
+month and year). As the dimensionality of data increases (i.e. more features are 
+available for each person), k-anonymity breaks down. Often this happens when new 
+datasets are released that can be joined with existing datasets through some 
+public fields. I would like to research semantically-informed attacks and defenses 
+of privacy on the Semantic Web. 
+
+<ul>
+{% include references_by_subject.html subject="privacy" %}
 </ul>
 
 <a id="reversing"></a>
@@ -44,7 +99,7 @@ raised. While employed at Riverside Research (see <a
 href="work.html#riverside">here</a>) I worked to make this possible by creating
 Function Insight, an easy-to-use tool that leverages rule-based, machine
 learning, and data mining techniques to aid non-experts in analyzing anomalous
-sections of executables.
+sections of executables. I am interested in continuing this work at Wright State.
 
 <ul>
 {% include references_by_subject.html subject="reversing" %}

@@ -15,6 +15,12 @@ nav: 4
 {% include references_by_type.html type="conference" %}
 </ul>
 
+## Workshop
+
+<ul class="flat citations">
+{% include references_by_type.html type="workshop" %}
+</ul>
+
 ## Invited Talks
 
 <ul class="flat citations">

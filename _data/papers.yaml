@@ -7,8 +7,49 @@
   website: http://iswc2014.semanticweb.org
   location: Riva del Garda, Trentino, Italy
   date: 2014-10-19
+  download: conferenceV2.pdf
   type: conference
   keywords: alignment 
+
+- title: The Properties of Property Alignment
+  authors:
+    - mcheatham
+    - phitzler
+  publication: Proceedings of the Ninth International Workshop on Ontology Matching (OM 2014)
+  website: http://om2014.ontologymatching.org
+  location: Riva del Garda, Trentino, Italy
+  date: 2014-10-19
+  download: PropString.pdf
+  type: workshop
+  keywords: alignment 
+
+- title: An Ontology Design Pattern for Material Transformation
+  authors:
+    - cvardeman
+    - akrisnadhi
+    - mcheatham
+    - kjanowicz
+    - hferguson
+    - phitzler
+    - abuccellato
+    - tprasad
+    - gbergcross
+  publication: Proceedings of the Fifth Workshop on Ontology and Semantic Web Patterns (WOP 2014) 
+  website: http://ontologydesignpatterns.org/wiki/WOP:2014
+  location: Riva del Garda, Trentino, Italy
+  date: 2014-10-19
+  type: workshop
+  keywords: odp 
+
+- title: The Properties of Property Alignment on the Semantic Web 
+  authors:
+    - mcheatham
+  publication: PhD dissertation
+  location: Wright State University
+  date: 2014-08-15
+  download: dissertation.pdf
+  type: other
+  keywords: alignment
 
 - title: String Similarity Metrics for Ontology Alignment 
   authors:
@@ -33,7 +74,7 @@
   pages: 146-152
   date: 2013-10-01
   download: MapSSS2013.pdf
-  type: conference
+  type: workshop
   keywords: alignment 
 
 - title: MapSSS Results for OAEI 2011 
@@ -44,7 +85,7 @@
   location: Bonn, Germany
   date: 2011-10-01
   download: MapSSS2011.pdf
-  type: conference
+  type: workshop
   keywords: alignment 
 
 - title: Function Insight&#58; Highlighting Suspicious Sections in Binary Run Traces 

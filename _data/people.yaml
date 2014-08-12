@@ -37,3 +37,29 @@ mcox:
   middle: T
   last: Cox
   homepage: mcox.org
+
+cvardeman:
+  first: Charles
+  last: Vardeman
+
+akrisnadhi:
+  first: Adila
+  last: Krisnadhi
+  homepage: http://knoesis.wright.edu/researchers/adila/
+
+kjanowicz:
+  first: Krzysztof
+  last: Janowicz
+  homepage: http://geog.ucsb.edu/~jano/
+
+hferguson:
+  first: Holly
+  last: Ferguson
+
+abuccellato:
+  first: Amy
+  last: Buccellato
+
+gbergcross:
+  first: Gary
+  last: Berg-Cross
