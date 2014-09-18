@@ -1,3 +1,13 @@
+- job: Peer Reviewer
+  organization: Journal of Computers, Environment and Urban Systems 
+  date: 2014
+  type: professional
+
+- job: Program Committee Member
+  organization: 19th International Conference on Knowledge Engineering and Knowledge Management 
+  date: 2014
+  type: professional
+
 - job: Program Committee Member
   organization: The Ninth International Workshop on Ontology Matching (OM-2014) 
   date: 2014
@@ -28,7 +38,7 @@
   date: 2014
   type: community
 
-- job: Peer Reviewer 
+- job: Peer Reviewer
   organization: Semantic Web Journal 
   date: 2014
   type: professional
