@@ -1,6 +1,12 @@
 # listed in reverse order by date
 - role: Co-PI (PI Pascal Hitzler, WSU)
   source: National Science Foundation 
+  project: GeoLink - Leveraging Semantics and Linked Data for Data Sharing and Discovery in the Geosciences 
+  amount: $423,413
+  date: Sep 2014 - Aug 2016
+
+- role: Co-PI (PI Pascal Hitzler, WSU)
+  source: National Science Foundation 
   project: Travel Fellowships for Students from US Universities to Attend ISWC 2014 
   amount: $20,000
   date: June 2014 - May 2015

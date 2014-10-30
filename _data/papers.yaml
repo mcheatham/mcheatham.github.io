@@ -1,4 +1,11 @@
 # listed in reverse order by date
+- title: A Pattern-based Approach to Ontology Alignment 
+  publication: University of Milan-Bicocca 
+  location: Milan, Italy
+  date: 2014-10-24
+  type: talk
+  keywords: alignment
+
 - title: Conference v2 - An uncertain version of the OAEI Conference benchmark
   authors:
     - mcheatham
