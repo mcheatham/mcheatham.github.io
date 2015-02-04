@@ -1,5 +1,10 @@
 - job: Program Committee Member
-  organization: ISWC 2015 In Use and Software Track 
+  organization: ISWC In Use and Software Track 
+  date: 2015
+  type: professional
+
+- job: Social Media Co-Chair
+  organization: Collaborative Technologies and Systems
   date: 2015
   type: professional
 
