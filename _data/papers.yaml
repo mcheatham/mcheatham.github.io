@@ -1,4 +1,18 @@
 # listed in reverse order by date
+- title: Cracking Binary Analysis 
+  publication: Ohio Celebration of Women in Computing Workshop 
+  location: Sawmill Creek Resort, Ohio
+  date: 2015-2-20
+  type: talk
+  keywords: reversing
+
+- title: Academic and Research Panel Discussion 
+  publication: Ohio Celebration of Women in Computing Workshop 
+  location: Sawmill Creek Resort, Ohio
+  date: 2015-2-20
+  type: talk
+  keywords: teaching
+
 - title: A Pattern-based Approach to Ontology Alignment 
   publication: University of Milan-Bicocca 
   location: Milan, Italy
