@@ -1,4 +1,18 @@
 # listed in reverse order by date
+- title: Privacy in the Age of Big Data 
+  publication: International Conference on Collaboration Technologies and Systems 
+  location: Atlanta, GA
+  date: 2015-06-04
+  type: talk
+  keywords: privacy
+
+- title: Publishing Linked Open Data (tutorial) 
+  publication: International Conference on Collaboration Technologies and Systems 
+  location: Atlanta, GA
+  date: 2015-06-01
+  type: talk
+  keywords: alignment
+
 - title: Cracking Binary Analysis 
   publication: Ohio Celebration of Women in Computing Workshop 
   location: Sawmill Creek Resort, Ohio
