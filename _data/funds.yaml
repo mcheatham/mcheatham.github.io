@@ -1,4 +1,16 @@
 # listed in reverse order by date
+- role: Co-PI (PI Subhashini Ganapathy, WSU)
+  source: National Science Foundation 
+  project: CPS EAGER: Intelligent Agent Incident Command System Augmentation (Award No. 1528550) 
+  amount: $175,000
+  date: Jun 2015 - May 2017
+
+- role: PI
+  source: LexisNexis 
+  project: Private Record Linkage 
+  amount: $28,749
+  date: Jun 2015 - Jun 2016
+
 - role: Co-PI (PI Pascal Hitzler, WSU)
   source: National Science Foundation 
   project: GeoLink - Leveraging Semantics and Linked Data for Data Sharing and Discovery in the Geosciences 
