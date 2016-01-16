@@ -1,4 +1,48 @@
 # listed in reverse order by date
+- title: An Ontology Design Pattern and Its Use Case for Modeling Material Transformation
+  authors:
+    - cvardeman
+    - akrisnadhi
+    - mcheatham
+    - kjanowicz
+    - hferguson
+    - phitzler
+    - abuccellato
+  publication: Semantic Web
+  location: online
+  date: 2015 
+  download: material-transformation.pdf
+  type: journal
+  keywords: odp
+
+- title: Results of the Ontology Alignment Evaluation Initiative 2015
+  authors:
+    - mcheatham
+    - zdragisic
+    - jeuzenat 
+    - dfaria 
+    - aferrara 
+    - gflouris 
+    - ifundulaki 
+    - rgranada 
+    - vivanova 
+    - ejimenezruiz 
+    - plambrix 
+    - smontanelli 
+    - cpesquita 
+    - tsaveta 
+    - pshvaiko 
+    - asolimando 
+    - ctrojahn 
+    - ozamazal 
+  publication:  Proceedings of the Ninth International Workshop on Ontology Matching (OM 2014)
+  website: http://om2015.ontologymatching.org
+  location: Bethlehem, PA
+  date: 2015-10-12
+  download: oaei2015results.pdf
+  type: workshop
+  keywords: alignment
+
 - title: Ontology Design Patterns - Piecing together an introduction 
   publication: ESIP Semantic Web telecon 
   location: online
