@@ -1,3 +1,8 @@
+- job: Robot Design Judge 
+  organization: First Lego League Student Robotics Competition 
+  date: 2015
+  type: community
+
 - job: Organizing Committee Member
   organization: Ontology Matching workshop at ISWC
   date: 2015
