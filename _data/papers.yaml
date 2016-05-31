@@ -1,6 +1,17 @@
 # listed in reverse order by date
 - title: An Ontology Design Pattern and Its Use Case for Modeling Material Transformation
   authors:
+    - pgrzebala
+    - mcheatham
+  publication: European Semantic Web Conference 
+  location: Crete, Greece
+  date: 2016 
+  download: private-record-linkage.pdf
+  type: conference
+  keywords: privacy
+
+- title: An Ontology Design Pattern and Its Use Case for Modeling Material Transformation
+  authors:
     - cvardeman
     - akrisnadhi
     - mcheatham
