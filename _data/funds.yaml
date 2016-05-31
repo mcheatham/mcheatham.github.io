@@ -1,7 +1,13 @@
 # listed in reverse order by date
+- role: PI 
+  source: US Geological Survey
+  project: Demonstration of Semantic Web Technologies as Applied to Surface Water Feature Classification (Agreement No. G16AC00120) 
+  amount: $120,000
+  date: Jul 2016 - Jun 2017
+
 - role: Senior Personnel (PI Junjie Zhang, WSU)
   source: National Science Foundation 
-  project: "REU: Cyber Security Research at Wright State University"
+  project: REU: Cyber Security Research at Wright State University
   date: Mar 2016 - Feb 2019
 
 - role: Co-PI (PI Subhashini Ganapathy, WSU)

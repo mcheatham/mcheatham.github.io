@@ -4,8 +4,7 @@ layout: main
 nav: 3
 ---
 <a id="alignment"></a>
-Ontology Alignment
-------------------
+## Ontology Alignment
 
 The vision of the Semantic Web is that computers as well as humans will be able
 to leverage the information on the web. One important capability that would
@@ -39,8 +38,7 @@ approaches to achieve this goal.
 </ul>
 
 <a id="odp"></a>
-Ontology Design Patterns
-----------------------------
+## Ontology Design Patterns
 
 There are some concepts that come up repeatedly across many different datasets 
 on the Semantic Web. Examples include groups of entities describing the trajectory 
@@ -62,8 +60,7 @@ sense of unstructured text available on the web.
 </ul>
 
 <a id="privacy"></a>
-Privacy Concerns of Big Data
-----------------------------
+## Privacy Concerns of Big Data
 
 I am also interested in applying ontology alignment techniques to issues related 
 to the privacy concerns of Big Data. Currently, many linked datasets are 
@@ -85,8 +82,7 @@ of privacy on the Semantic Web.
 </ul>
 
 <a id="reversing"></a>
-Software Reverse Engineering
-----------------------------
+## Software Reverse Engineering
 
 Software reverse engineering is the process of analyzing a program in order to
 learn how it works. This has many uses, but my research has focused on gaining
@@ -106,8 +102,7 @@ sections of executables. I am interested in continuing this work at Wright State
 </ul>
 
 <a id="wsn"></a>
-Confidentiality in Wireless Sensor Networks
--------------------------------------------
+## Confidentiality in Wireless Sensor Networks
 
 Wireless sensor networks (and by extension, ubiquitous sensing) have the
 potential to be a transformative technology &mdash; something like the internet
@@ -137,8 +132,7 @@ memory, communications, computation, and energy requirements. This work led to
 the establishment of two SBIR topics (see <a href="work.html#afrl">here</a>).
 
 <a id="sna"></a>
-Social Network Analysis
------------------------
+## Social Network Analysis
 
 A social network is a graph in which the nodes represent people and the edges
 represent some type of communication or collaboration between them. In this
@@ -169,8 +163,7 @@ Knowledge Company as part of the BUCKI SBIR Project, see
 </ul>
 
 <a id="aiwf"></a>
-AI Planning in Workflow Management Systems
-------------------------------------------
+## AI Planning in Workflow Management Systems
 
 Collaborative environments allow geographically distributed groups to work
 together to generate new knowledge. This work focused on workflow management
@@ -193,8 +186,7 @@ collaborative environments.
 </ul>
 
 <a id="thesis"></a>
-Genetic Algorithms for Text Classification
-------------------------------------------
+## Genetic Algorithms for Text Classification
 
 A Nearest Neighbor Classifier (NNC) approaches the problem of text
 classification by computing a similarity metric between feature vector
@@ -210,8 +202,7 @@ than sequential optimization.
 </ul>
 
 <a id="programming"></a>
-Type-safe Programming Languages
--------------------------------
+## Type-safe Programming Languages
 
 I also did some joint research with Kevin Cleereman at the Air Force Research
 Laboratory and Krishnaprasad Thirunarayan at Wright State University on
