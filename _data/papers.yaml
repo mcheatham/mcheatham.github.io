@@ -1,4 +1,43 @@
 # listed in reverse order by date
+- title: Towards Best Practices for Crowdsourcing Ontology Alignment Benchmarks
+  authors:
+    - ramini
+    - mcheatham
+    - pgrzebala
+    - bmccurdy 
+  publication:  Proceedings of the Eleventh International Workshop on Ontology Matching (OM 2016)
+  website: http://om2016.ontologymatching.org
+  location: Kobe, Japan 
+  date: 2016-11-18
+  download: iswc2016_mturk.pdf
+  type: workshop
+  keywords: alignment
+
+- title: Matching Instances in GeoLink 
+  authors:
+    - mcheatham
+    - ramini
+    - cpatel
+  publication:  Proceedings of the Eleventh International Workshop on Ontology Matching (OM 2016)
+  website: http://om2016.ontologymatching.org
+  location: Kobe, Japan 
+  date: 2016-11-18
+  download: geolink_poster.pdf
+  type: workshop
+  keywords: alignment
+
+- title: Semantic Web Enabled Record Linkage Attacks on Anonymized Data 
+  authors:
+    - jmiracle
+    - mcheatham
+  publication:  Society, Privacy and the Semantic Web - Policy and Technology (PrivOn 2016)
+  website: http://privon.semanticweb.org
+  location: Kobe, Japan 
+  date: 2016-11-18
+  download: semantic_linkage.pdf
+  type: workshop
+  keywords: alignment
+
 - title: Private Record linkage - Comparison of selected techniques for name matching
   authors:
     - pgrzebala

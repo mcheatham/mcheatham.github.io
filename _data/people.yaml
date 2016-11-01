@@ -4,9 +4,26 @@ mcheatham:
   last: Cheatham
   homepage: michellecheatham.com 
 
+ramini:
+  first: Reihaneh
+  last: Amini
+
+jmiracle:
+  first: Jacob
+  last: Miracle
+
+bmccurdy:
+  first: Helena
+  middle: Brooke
+  last: McCurdy
+
 pgrzebala:
   first: Pawel
   last: Grzebala
+
+cpatel:
+  first: Chandan
+  last: Patel
 
 phitzler:
   first: Pascal
