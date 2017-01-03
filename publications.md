@@ -3,6 +3,12 @@ title: Publications
 layout: main
 nav: 4
 ---
+## Book Chapters
+
+<ul class="flat citations">
+{% include references_by_type.html type="chapter" %}
+</ul>
+
 ## Journal
 
 <ul class="flat citations">

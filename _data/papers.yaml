@@ -1,4 +1,70 @@
 # listed in reverse order by date
+- title: Semantic Data Integration 
+  authors:
+    - mcheatham
+    - cpesquita
+  publication: Springer Hanbook on Big Data 
+  editors:
+    - ssark
+    - azomaya
+  date: 2016-01-01
+  download: semantic-data-integration.pdf
+  type: chapter
+  keywords: alignment
+
+- title: Linked Ocean Data 2.0 
+  authors:
+    - aleadbetter
+    - mcheatham
+    - ashepherd
+    - rthomas 
+  publication: Oceanographic and Marine Cross-Domain Data Management for Sustainable Development 
+  editors:
+    - pdiviacco
+    - aleadbetter
+    - hglaves
+  pages: 69-99
+  date: 2016-01-01
+  download: linked-ocean-data.pdf
+  type: chapter
+  keywords: odp
+
+- title: Results of the Ontology Alignment Evaluation Initiative 2016
+  authors:
+    - machichi
+    - mcheatham
+    - zdragisic
+    - jeuzenat 
+    - dfaria 
+    - aferrara 
+    - gflouris 
+    - ifundulaki 
+    - iharrow
+    - vivanova 
+    - ejimenezruiz 
+    - ekuss
+    - plambrix 
+    - hleopold
+    - hli
+    - cmeilicke
+    - smontanelli 
+    - cpesquita 
+    - tsaveta 
+    - pshvaiko 
+    - asplendiani
+    - hstuckenschmidt
+    - ktodorov
+    - ctrojahn 
+    - ozamazal 
+  publication:  Proceedings of the Tenth International Workshop on Ontology Matching (OM 2016)
+  website: http://om2016.ontologymatching.org
+  location: Kobe, Japan
+  date: 2016-10-18
+  download: oaei2016results.pdf
+  type: workshop
+  keywords: alignment
+
+
 - title: Towards Best Practices for Crowdsourcing Ontology Alignment Benchmarks
   authors:
     - ramini
@@ -8,7 +74,7 @@
   publication:  Proceedings of the Eleventh International Workshop on Ontology Matching (OM 2016)
   website: http://om2016.ontologymatching.org
   location: Kobe, Japan 
-  date: 2016-11-18
+  date: 2016-10-18
   download: iswc2016_mturk.pdf
   type: workshop
   keywords: alignment
@@ -21,7 +87,7 @@
   publication:  Proceedings of the Eleventh International Workshop on Ontology Matching (OM 2016)
   website: http://om2016.ontologymatching.org
   location: Kobe, Japan 
-  date: 2016-11-18
+  date: 2016-10-18
   download: geolink_poster.pdf
   type: workshop
   keywords: alignment
@@ -33,7 +99,7 @@
   publication:  Society, Privacy and the Semantic Web - Policy and Technology (PrivOn 2016)
   website: http://privon.semanticweb.org
   location: Kobe, Japan 
-  date: 2016-11-18
+  date: 2016-10-18
   download: semantic_linkage.pdf
   type: workshop
   keywords: alignment
