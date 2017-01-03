@@ -1,0 +1,11 @@
+{% assign editors = include.editors %}
+{% for editor in editors %}
+	{% if forloop.last %}
+	  	{% assign suffix = '' %}
+	{% elsif forloop.rindex == 2 %}
+	  	{% assign suffix = ' and ' %}
+  	{% else %}
+	  	{% assign suffix = ', ' %}
+	{% endif %}
+	{% include editor_last_first.html %}
+{% endfor %}
