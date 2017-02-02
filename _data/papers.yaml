@@ -64,6 +64,19 @@
   type: workshop
   keywords: alignment
 
+- title: A Modification to the Hazardous Situation ODP to Support Risk Assessment and Mitigation 
+  authors:
+    - mcheatham
+    - hferguson
+    - cvardeman
+    - cshimizu
+  publication:  Workshop on Ontology and Semantic Web Patterns (WOP 2016)
+  website: http://ontologydesignpatterns.org/wiki/WOP:2016
+  location: Kobe, Japan 
+  date: 2016-10-18
+  download: modification-hazardous-situation.pdf
+  type: workshop
+  keywords: odp
 
 - title: Towards Best Practices for Crowdsourcing Ontology Alignment Benchmarks
   authors:
