@@ -1,3 +1,13 @@
+- job: Organizing Committee Member
+  organization: Society, Privacy, and the Semantic Web (PrivOn) workshop at ISWC
+  date: 2017
+  type: professional
+
+- job: Organizing Committee Member
+  organization: Ontology Matching workshop at ISWC
+  date: 2017
+  type: professional
+
 - job: Peer Reviewer 
   organization: Semantic Web Journal 
   date: 2017
