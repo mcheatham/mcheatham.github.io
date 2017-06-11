@@ -1,4 +1,9 @@
 - job: Peer Reviewer 
+  organization: Journal of Biomedical Semantics 
+  date: 2017
+  type: professional
+
+- job: Peer Reviewer 
   organization: Journal of Geographical Systems 
   date: 2017
   type: professional
