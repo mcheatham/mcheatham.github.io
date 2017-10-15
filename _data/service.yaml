@@ -1,3 +1,8 @@
+- job: Judge 
+  organization: Wright State University ACM Programmign Competition 
+  date: 2017
+  type: community
+
 - job: Program Committeee Member
   organization: International Conference on Knowledge Capture 
   date: 2017
