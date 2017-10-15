@@ -1,3 +1,8 @@
+- job: Program Committeee Member
+  organization: International Conference on Knowledge Capture 
+  date: 2017
+  type: professional
+
 - job: Peer Reviewer 
   organization: ISWC Poster and Demo Track 
   date: 2017
@@ -33,7 +38,7 @@
   date: 2017
   type: professional
 
-- job: Peer Committee Member 
+- job: Program Committee Member 
   organization: Poster and Demo Track at the European Semantic Web Conference (ESWC) 
   date: 2017
   type: professional
