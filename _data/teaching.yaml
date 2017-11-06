@@ -4,20 +4,22 @@
   end-date: present
   id: wsu
   details: 
-    - Computer Science II, Summer 2016
-    - Data Structures and Algorithms, Spring 2016
-    - Computer Science I, Spring 2016
-    - Computability and Complexity, Fall 2015
-    - Privacy Aware Computing, Spring 2015
-    - Information Security (7 week online version), Spring 2015
+    - Fall 2017  Computer Science I, Computer Science II
+    - Summer 2017  Computer Science II
+    - Spring 2017  Computer Science II (double section)
+    - Fall 2016  Computer Science I, Data Structures and Algorithms 
+    - Summer 2016  Computer Science II
+    - Spring 2016  Computability and Complexity, Data Structures and Algorithms 
+    - Fall 2015  Computability and Complexity 
+    - Spring 2015  Information Security, Privacy Aware Computing  
 
 - employer: Sinclair Community College 
   title: Adjunct Professor/Course Developer 
   start-date: 2010
-  end-date: present
+  end-date: 2014
   id: sinclair
   details: 
-    - Teach courses on Beginning and Advanced Java and C++ Programming, Data Structures 
+    - Taught courses on Beginning and Advanced Java and C++ Programming, Data Structures 
       and Algorithms, and Introduction to Object Oriented Design and Analysis, 
       both in person and online.
     - Developed curriculum and course material for online versions of the 
