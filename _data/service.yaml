@@ -3,6 +3,16 @@
   date: 2017
   type: community
 
+- job: Speaker 
+  organization: Wright State University Hackathon 
+  date: 2016
+  type: community
+
+- job: Dean's Faculty Fellow 
+  organization: Wright State University High School Outreach Program 
+  date: 2016
+  type: community
+
 - job: Program Committeee Member
   organization: International Conference on Knowledge Capture 
   date: 2017
@@ -52,6 +62,21 @@
   organization: PhD Symposium at the European Semantic Web Conference (ESWC) 
   date: 2017
   type: professional
+
+- job: Judge 
+  organization: Wright State University ACM Programming Competition 
+  date: 2016
+  type: community
+
+- job: Speaker 
+  organization: Wright State University Hackathon 
+  date: 2016
+  type: community
+
+- job: Dean's Faculty Fellow 
+  organization: Wright State University High School Outreach Program 
+  date: 2016
+  type: community
 
 - job: Program Committee Member
   organization: 20th International Conference on Knowledge Engineering and Knowledge Management (EKAW) 
