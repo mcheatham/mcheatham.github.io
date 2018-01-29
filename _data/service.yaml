@@ -1,4 +1,9 @@
 - job: Peer Reviewer 
+  organization: Information Sciences 
+  date: 2018
+  type: professional
+
+- job: Peer Reviewer 
   organization: Transactions on Knowledge Discovery from Data
   date: 2017
   type: professional
