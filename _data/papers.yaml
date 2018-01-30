@@ -1,4 +1,16 @@
 # listed in reverse order by date
+- title: An Ontology Design Pattern for Microblog Entries 
+  authors:
+    - mcheatham
+    - cshimizu
+  publication:  Workshop on Ontology and Semantic Web Patterns (WOP 2017)
+  website: http://ontologydesignpatterns.org/wiki/WOP:2017
+  location: Vienna, Austria 
+  date: 2017-10-21
+  download: microblog-entry.pdf
+  type: workshop
+  keywords: odp
+
 - title: Computational Environment An ODP to Support Finding and Recreating Computational Analyses 
   authors:
     - mcheatham
