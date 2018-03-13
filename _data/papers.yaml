@@ -1,4 +1,45 @@
 # listed in reverse order by date
+- title: Intelligent Systems for Geosciences - An Essential Research Agenda
+  authors:
+    - ygil
+    - spierce
+    - hbabaie
+    - abanerjee
+    - kborne
+    - gbust
+    - mcheatham
+    - iebert-uphoff
+    - cgomes
+    - mhill
+    - jhorel
+    - lhsu
+    - jkinter
+    - cknoblock
+    - dkrum
+    - vkumar
+    - plermusiaux
+    - yliu
+    - cnorth
+    - vpankratius
+    - speters
+    - bplale
+    - apope
+    - sravela
+    - jrestrepo
+    - aridley
+    - hsamet
+    - sshekhar
+    - kskinner
+    - psmyth
+    - btikoff
+    - lyarmey
+    - jzhang
+  publication: Communications of the ACM 
+  date: 2017-03-11
+  download: intelligent-systems-for-geosciences.pdf
+  type: journal
+  keywords: domain-specific
+
 - title: An Ontology Design Pattern for Microblog Entries 
   authors:
     - cshimizu
