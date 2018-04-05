@@ -1,4 +1,9 @@
 - job: Peer Reviewer 
+  organization: ESWC Poster and Demo Track 
+  date: 2018
+  type: professional
+
+- job: Peer Reviewer 
   organization: Information Sciences 
   date: 2018
   type: professional
