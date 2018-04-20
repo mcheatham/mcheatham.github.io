@@ -1,4 +1,33 @@
 # listed in reverse order by date
+- title: The GeoLink Knowledge Graph 
+  authors:
+    - mcheatham
+    - akrisnadhi
+    - ramini
+    - phitzler
+    - kjanowicz
+    - ashepherd
+    - tnarock
+    - mjones
+    - pji
+  publication: Big Earth Data 
+  date: 2018-04-19
+  download: geolink-knowledge-graph.pdf
+  type: journal
+  keywords: odp 
+
+- title: Pseudo-Random ALC Syntax Generation
+  authors:
+    - aeberhart
+    - mcheatham
+    - phitzler 
+  publication: European Semantic Web Conference (ESWC 2018)
+  website: http://2018.eswc-conferneces.org
+  location: Heraklion, Greece 
+  date: 2018-06-03
+  type: workshop
+  keywords: tools
+
 - title: Intelligent Systems for Geosciences - An Essential Research Agenda
   authors:
     - ygil
