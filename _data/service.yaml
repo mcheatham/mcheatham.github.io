@@ -1,4 +1,9 @@
 - job: Speaker 
+  organization: Greater Miami Valley Computer Science Circle 
+  date: 2018
+  type: community
+
+- job: Speaker 
   organization: Institute for Learning in Retirement at Miami University 
   date: 2018
   type: community
