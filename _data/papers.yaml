@@ -1,4 +1,16 @@
 # listed in reverse order by date
+- title: A Complex Alignment Benchmark: GeoLink Dataset
+  authors:
+    - lzhou
+    - mcheatham
+    - akrisnadhi
+    - phitzler
+  publication: International Semantic Web Conference (ISWC 2018) 
+  date: 2018-10-10
+  download: complex-alignment-geolink.pdf
+  type: conference
+  keywords: alignment 
+
 - title: The GeoLink Knowledge Graph 
   authors:
     - mcheatham
