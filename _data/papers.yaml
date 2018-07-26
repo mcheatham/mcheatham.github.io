@@ -1,4 +1,17 @@
 # listed in reverse order by date
+- title: The First Version of the OAEI Complex Alignment Benchmark 
+  authors:
+    - ethieblin
+    - mcheatham
+    - ctrojahn
+    - ozamazal
+    - lzhou
+  publication: International Semantic Web Conference (ISWC 2018) Poster and Demo Session 
+  date: 2018-10-10
+  download: OM_poster_2018_benchmark.pdf
+  type: workshop
+  keywords: alignment 
+
 - title: A Complex Alignment Benchmark - GeoLink Dataset
   authors:
     - lzhou
