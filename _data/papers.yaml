@@ -1,4 +1,16 @@
 # listed in reverse order by date
+- title: The Properties of Property Alignment on the Semantic Web 
+  authors:
+    - mcheatham
+    - cpesquita
+    - doliveira
+    - bmccurdy
+  publication: International Journal of Metadata, Semantics and Ontologies 
+  date: To appear 
+  download: properties-property-alignment.pdf
+  type: journal
+  keywords: alignment 
+
 - title: The First Version of the OAEI Complex Alignment Benchmark 
   authors:
     - ethieblin
