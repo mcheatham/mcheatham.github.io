@@ -1,4 +1,11 @@
 # listed in reverse order by date
+- title: Big Data Without Big Brother 
+  publication: Wittenberg University
+  location: Springfield, OH 
+  date: 2018-11-12
+  type: talk
+  keywords: privacy
+
 - title: The Properties of Property Alignment on the Semantic Web 
   authors:
     - mcheatham
