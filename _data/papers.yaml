@@ -283,8 +283,10 @@
     - phitzler
     - abuccellato
   publication: Semantic Web
-  location: online
   date: 2017-01-01
+  volume: 8
+  issue: 5
+  pages: 719-731
   download: material-transformation.pdf
   type: journal
   keywords: odp
