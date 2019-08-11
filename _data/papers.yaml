@@ -1,4 +1,15 @@
 # listed in reverse order by date
+- title: GeoLink Dataset - A Complex Alignment Benchmark from Real-world Ontology
+  authors:
+    - lzhou
+    - mcheatham
+    - akrisnadhi
+    - phitzler
+  publication: Data Intelligence Journal 
+  date: 2019-08-06
+  type: journal
+  keywords: alignment 
+
 - title: Academic Discussion Panel 
   publication: Society of Women Engineers Meet Up 
   location: Wright State University, Dayton, OH
