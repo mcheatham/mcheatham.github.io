@@ -1,4 +1,15 @@
 # listed in reverse order by date
+- title: Alignment of Surface Water Ontologies - A comparison of manual and automated approaches 
+  authors:
+    - mcheatham
+    - dvaranka
+    - farauz 
+    - lzhou
+  publication: Journal of Geographical Systems 
+  date: 2019-09-03
+  type: journal
+  keywords: alignment 
+
 - title: GeoLink Dataset - A Complex Alignment Benchmark from Real-world Ontology
   authors:
     - lzhou
