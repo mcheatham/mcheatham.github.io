@@ -1,4 +1,18 @@
 # listed in reverse order by date
+- title: Towards Evaluating Complex Ontology Alignments 
+  authors:
+    - lzhou
+    - ethieblin
+    - mcheatham
+    - dfaria 
+    - cpesquita
+    - ctrojahn
+    - ozamazal
+  publication: The Knowledge Engineering Review 
+  date: 2019-11-24
+  type: journal
+  keywords: alignment 
+
 - title: Alignment of Surface Water Ontologies - A comparison of manual and automated approaches 
   authors:
     - mcheatham
@@ -7,6 +21,7 @@
     - lzhou
   publication: Journal of Geographical Systems 
   date: 2019-09-03
+  download: surface-water-alignment-draft.pdf
   type: journal
   keywords: alignment 
 
@@ -18,6 +33,7 @@
     - phitzler
   publication: Data Intelligence Journal 
   date: 2019-08-06
+  download: geolink-dataset.pdf
   type: journal
   keywords: alignment 
 
