@@ -1,4 +1,9 @@
 - job: Peer Reviewer 
+  organization: Journal of Web Semantics 
+  date: 2019
+  type: professional
+
+- job: Peer Reviewer 
   organization: ESWC Poster and Demo Track 
   date: 2019
   type: professional
