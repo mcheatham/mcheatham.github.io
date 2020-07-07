@@ -1,4 +1,16 @@
 # listed in reverse order by date
+- title: A consensual dataset for complex ontology matching evaluation 
+  authors:
+    - ethieblin
+    - mcheatham
+    - ctrojahn
+    - ozamazal
+  publication: The Knowledge Engineering Review 
+  date: 2020-07-07
+  download: KER_Conference_consensus.pdf 
+  type: journal
+  keywords: alignment 
+
 - title: Towards Evaluating Complex Ontology Alignments 
   authors:
     - lzhou
