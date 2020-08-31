@@ -6,7 +6,7 @@
     - ctrojahn
     - ozamazal
   publication: The Knowledge Engineering Review 
-  date: 2020-07-07
+  date: 2020-07-31
   download: KER_Conference_consensus.pdf 
   type: journal
   keywords: alignment 
@@ -21,8 +21,20 @@
     - ctrojahn
     - ozamazal
   publication: The Knowledge Engineering Review 
-  date: 2020-07-07
+  date: 2020-07-31
   download: complex-eval.pdf
+  type: journal
+  keywords: alignment 
+
+- title: GeoLink Dataset - A Complex Alignment Benchmark from Real-world Ontology
+  authors:
+    - lzhou
+    - mcheatham
+    - akrisnadhi
+    - phitzler
+  publication: Data Intelligence Journal 
+  date: 2020-07-31
+  download: geolink-dataset.pdf
   type: journal
   keywords: alignment 
 
@@ -35,18 +47,6 @@
   publication: Journal of Geographical Systems 
   date: 2019-09-03
   download: surface-water-alignment-draft.pdf
-  type: journal
-  keywords: alignment 
-
-- title: GeoLink Dataset - A Complex Alignment Benchmark from Real-world Ontology
-  authors:
-    - lzhou
-    - mcheatham
-    - akrisnadhi
-    - phitzler
-  publication: Data Intelligence Journal 
-  date: 2019-08-06
-  download: geolink-dataset.pdf
   type: journal
   keywords: alignment 
 
