@@ -1,3 +1,8 @@
+- job: Teacher/Mentor
+  organization: Girls Who Code, Incarnation Elementary School 
+  date: 2019-2020
+  type: community
+
 - job: Peer Reviewer 
   organization: Journal of Web Semantics 
   date: 2019
