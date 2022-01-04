@@ -1,3 +1,17 @@
+- employer: Galois 
+  title: Software Eng./Researcher
+  start-date: 2019
+  end-date: 2019
+  id: galois
+  details: 
+    - Six month leave of absence from Wright State University due to a faculty 
+      union strike.
+    - Worked as part of a team on a DARPA project focused on automated 
+      approaches to software vulnerability assessment.
+    - Independently designed and partially implemented a system to increase the 
+      diversity of a set of malware samples through the use of genetic 
+      programming techniques.
+
 - employer: Riverside Research 
   title: Sr. Developer/Task Mgr.
   start-date: 2011

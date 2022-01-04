@@ -1,6 +1,21 @@
+- job: Faculty Advisor
+  organization: WSU Chapter of the National Society of Collegiate Scholars 
+  date: 2021
+  type: professional
+
+- job: Faculty Advisor
+  organization: WSU Chapter of the ACM 
+  date: 2020-2021
+  type: professional
+
+- job: Coding Activity 
+  organization: Chaminade Julienne STEM camp for middle schoolers 
+  date: 2021
+  type: community
+
 - job: Teacher/Mentor
   organization: Girls Who Code, Incarnation Elementary School 
-  date: 2019-2020
+  date: 2019-2021
   type: community
 
 - job: Peer Reviewer 

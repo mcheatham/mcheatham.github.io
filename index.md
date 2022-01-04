@@ -8,9 +8,9 @@ schema: Person
 <img itemprop="image" src="{{ site.baseurl }}/images/me.JPG"
 	class="img-responsive" style="width:175px;margin:2em;float:right">
 
-Hi, I'm <span itemprop="name"><span itemprop="givenName">Michelle</span> <span itemprop="familyName">Cheatham</span></span>. I currently work as an <span itemprop="jobTitle">Assistant Professor</span> in the Computer Science and Engineering Department at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="http://www.wright.edu"><span itemprop="name">Wright State University</span></a></span> in <span itemprop="workLocation" itemscope itemtype="http://schema.org/Place"><a itemprop="url" href="http://en.wikipedia.org/wiki/Dayton,_Ohio"><span itemprop="name">Dayton, Ohio</span></a></span>.
+Hi, I'm <span itemprop="name"><span itemprop="givenName">Michelle</span> <span itemprop="familyName">Cheatham</span></span>. I currently work as an <span itemprop="jobTitle">Associate Professor</span> in the Computer Science and Engineering Department at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="http://www.wright.edu"><span itemprop="name">Wright State University</span></a></span> in <span itemprop="workLocation" itemscope itemtype="http://schema.org/Place"><a itemprop="url" href="http://en.wikipedia.org/wiki/Dayton,_Ohio"><span itemprop="name">Dayton, Ohio</span></a></span>.
 
-My research has centered on Semantic Web topics such as developing ontology design patterns and automated ontology alignment. I also have experience with topics related to cybersecurity, such as binary analysis, reverse engineering, and software vulnerability assessment, which I developed expertise in while working for the <a href="http://www.wpafb.af.mil/afrl/">Air Force Research Lab</a>. Lately I have been concentrating largely on pedagogy, and I am currently the course coordinator of the introductory programming course sequence at Wright State.
+My research has centered on Semantic Web topics such as developing ontology design patterns and automated ontology alignment. I also have experience with topics related to cybersecurity, such as binary analysis, reverse engineering, and software vulnerability assessment, which I developed expertise in while working for the <a href="http://www.wpafb.af.mil/afrl/">Air Force Research Lab</a>. Lately I have been concentrating largely on pedagogy, and I am currently the course coordinator of the introductory programming course sequence at Wright State. Because of this, I am not accepting any graduate students at this time.
 
 I've had a somewhat winding career path, in that I worked as a civil servant
 at the Air Force Research Lab for quite awhile before going back to school. After seven
@@ -26,5 +26,3 @@ beers with my husband <span itemprop="spouse" itemscope itemtype="http://schema.
 eat the cat").
 
 I can be reached at <span itemprop="email">firstname.lastname@gmail.com</span>
-
-<!-- add photos of me, Jason and beer, and Shiloh -->
