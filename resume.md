@@ -3,6 +3,7 @@ title: Resume
 layout: main
 nav: 9
 ---
+
 ## Education
 
 <table id="education" style="width:100%">
@@ -24,6 +25,7 @@ nav: 9
 </tbody>
 </table>
 
+<!--
 ## Certifications
 
 <ul class="flat">
@@ -31,6 +33,7 @@ nav: 9
   <li>{{ cert }}</li>
 {% endfor %}
 </ul>
+-->
 
 ## Computer Experience
 
@@ -60,4 +63,3 @@ nav: 9
   </tbody>
   {% endfor %}
 </table>
-

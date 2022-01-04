@@ -2,44 +2,30 @@
   proficient:
     - Java
     - C++
-    - XML
-    - SQL
   familiar:
-    - Visual Basic
-    - Perl
-    - Lisp
-    - ML
+    - Python 
+    - SQL
 
-- group: Web programming
-  proficient:
-    - Java Server Pages (JSP)
+- group: Web development
+  familiar:
     - HTML
     - CSS
-    - BroadVision Enterprise
-
-  familiar:
     - JavaScript
-    - J2EE architecture
-    - Apache
 
 - group: AI technologies
   proficient:
+    - OWL (web ontology language)
     - neural networks
     - genetic algorithms
     - machine learning and data mining
-    - OWL (web ontology language)
   familiar:
     - state space planning
     - case based reasoning
-
-- group: Databases
-  proficient:
-    - MySQL
-    - Microsoft Access
 
 - group: Other
   proficient:
     - object-oriented design and analysis
     - computer science theory
     - software reverse engineering
+  familiar:
     - wireless sensor networks
