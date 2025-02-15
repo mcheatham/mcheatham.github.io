@@ -1,7 +1,16 @@
+- employer: University of Calgary
+  title: Assistant Professor
+  start-date: 2023
+  end-date: present
+  id: calgary
+  details: 
+    - Teach graduate courses on Applied Cryptography, Network Security, and Private Data Management and undergraduate courses on introductory programming (taught in Python) and Information Security and Privacy 
+    - Director of the Infomormation Security and Privacy professional master's program, which involves managing the curriculum, hiring sessional instructors, and advising students.
+
 - employer: Wright State University 
   title: Associate Professor
   start-date: 2014
-  end-date: present
+  end-date: 2023
   id: wsu
   details: 
     - Teach graduate courses on Privacy Aware Computing, Information Security, and Computability and Complexity Analysis and undergraduate courses on introductory programming (taught in Java) and Data Structures and Algorithms (taught in C++).
