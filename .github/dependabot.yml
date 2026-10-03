@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Update everything together so interlocked gems don't block each other
+    groups:
+      ruby-dependencies:
+        patterns:
+          - "*"
